@@ -1,0 +1,1158 @@
+{
+ "generated_at": "2026-10-19T11:08:00Z",
+ "request": {
+  "names": [
+   "Spotify"
+  ],
+  "tlds": [
+   "com",
+   "io",
+   "ai",
+   "co",
+   "app",
+   "dev"
+  ],
+  "platforms": [
+   "x",
+   "instagram",
+   "tiktok",
+   "github",
+   "youtube",
+   "reddit",
+   "telegram",
+   "linkedin"
+  ],
+  "tm": [
+   "us",
+   "eu",
+   "uk",
+   "wipo"
+  ],
+  "variations": false
+ },
+ "results": {
+  "Spotify": {
+   "name": "Spotify",
+   "label": "spotify",
+   "handle": "spotify",
+   "domains": [
+    {
+     "check": "domain",
+     "target": ".com",
+     "domain": "spotify.com",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "registrar: Abion AB; registered 2006-04-23; expires 2030-04-23; DNS delegated",
+     "registrar": "Abion AB",
+     "created": "2006-04-23",
+     "expires": "2030-04-23",
+     "registry_status": [
+      "client delete prohibited",
+      "client transfer prohibited",
+      "server delete prohibited",
+      "server transfer prohibited",
+      "server update prohibited"
+     ],
+     "sources": [
+      "RDAP rdap.verisign.com",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".io",
+     "domain": "spotify.io",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "registrar: Abion AB; registered 2012-08-30; expires 2027-08-30; DNS delegated",
+     "registrar": "Abion AB",
+     "created": "2012-08-30",
+     "expires": "2027-08-30",
+     "registry_status": [
+      "client transfer prohibited"
+     ],
+     "sources": [
+      "RDAP rdap.identitydigital.services",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".ai",
+     "domain": "spotify.ai",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "registrar: Abion AB; registered 2017-12-16; expires 2027-10-11; DNS delegated",
+     "registrar": "Abion AB",
+     "created": "2017-12-16",
+     "expires": "2027-10-11",
+     "registry_status": [
+      "client transfer prohibited"
+     ],
+     "sources": [
+      "RDAP rdap.identitydigital.services",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".co",
+     "domain": "spotify.co",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "registrar: Key-Systems GmbH; registered 2010-07-20; DNS delegated",
+     "registrar": "Key-Systems GmbH",
+     "created": "2010-07-20",
+     "expires": null,
+     "registry_status": [],
+     "sources": [
+      "WHOIS whois.registry.co",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".app",
+     "domain": "spotify.app",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "registrar: Lexsynergy Limited; registered 2018-03-29; expires 2027-03-29; DNS delegated",
+     "registrar": "Lexsynergy Limited",
+     "created": "2018-03-29",
+     "expires": "2027-03-29",
+     "registry_status": [
+      "client delete prohibited",
+      "client transfer prohibited",
+      "client update prohibited"
+     ],
+     "sources": [
+      "RDAP pubapi.registry.google",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".dev",
+     "domain": "spotify.dev",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "registrar: Lexsynergy Limited; registered 2019-02-22; expires 2027-02-22; DNS delegated",
+     "registrar": "Lexsynergy Limited",
+     "created": "2019-02-22",
+     "expires": "2027-02-22",
+     "registry_status": [
+      "client delete prohibited",
+      "client transfer prohibited",
+      "client update prohibited"
+     ],
+     "sources": [
+      "RDAP pubapi.registry.google",
+      "DNS (delegated)"
+     ]
+    }
+   ],
+   "handles": [
+    {
+     "check": "handle",
+     "platform": "x",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "account exists: Spotify (@Spotify)",
+     "evidence": {
+      "url": "https://x.com/spotify",
+      "http": 200,
+      "title": "Spotify (@Spotify) / X"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "instagram",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "profile metadata present at instagram.com/spotify",
+     "evidence": {
+      "url": "https://www.instagram.com/spotify/",
+      "http": 200,
+      "final": "https://www.instagram.com/spotify/",
+      "title": "Spotify (&#064;spotify) • Instagram photos and videos"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "tiktok",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:09Z",
+     "status": "taken",
+     "detail": "account exists: Spotify (@spotify)",
+     "evidence": {
+      "url": "https://www.tiktok.com/@spotify",
+      "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+      "reader_http": 200,
+      "title": "Spotify (@spotify) | TikTok"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "github",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "organization account exists: Spotify",
+     "evidence": {
+      "url": "https://api.github.com/users/spotify",
+      "http": 200
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "youtube",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "channel exists: Spotify",
+     "evidence": {
+      "url": "https://www.youtube.com/@spotify",
+      "http": 200,
+      "final": "https://www.youtube.com/@spotify"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "reddit",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "unconfirmed",
+     "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/spotify",
+     "evidence": {
+      "url": "https://www.reddit.com/api/username_available.json?user=spotify",
+      "http": 403,
+      "fallback": {
+       "url": "https://www.reddit.com/user/spotify/about.json",
+       "http": 403
+      }
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "telegram",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "taken",
+     "detail": "channel or group exists: 𝗦𝗣𝗢𝗧𝗬 𝗩𝗜𝗕𝗘𝗦 🎧💚",
+     "evidence": {
+      "url": "https://t.me/spotify",
+      "http": 200
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "linkedin",
+     "handle": "spotify",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "status": "unconfirmed",
+     "detail": "LinkedIn answered HTTP 999/999; verify while signed in",
+     "evidence": {
+      "company": {
+       "url": "https://www.linkedin.com/company/spotify",
+       "http": 999,
+       "final": "https://www.linkedin.com/company/spotify"
+      },
+      "profile": {
+       "url": "https://www.linkedin.com/in/spotify",
+       "http": 999,
+       "final": "https://www.linkedin.com/in/spotify"
+      }
+     },
+     "controls": {
+      "neg": false,
+      "pos": false
+     }
+    }
+   ],
+   "apps": [
+    {
+     "check": "app",
+     "target": "Apple App Store",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "matches": [
+      {
+       "title": "Spotify: Music and Podcasts",
+       "developer": "Spotify",
+       "id": 324684580,
+       "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?uo=4",
+       "match": "exact",
+       "bundle_id": "com.spotify.client"
+      },
+      {
+       "title": "stats.fm for Spotify Music App",
+       "developer": "StatsFM B.V.",
+       "id": 1526912392,
+       "url": "https://apps.apple.com/us/app/stats-fm-for-spotify-music-app/id1526912392?uo=4",
+       "match": "similar",
+       "bundle_id": "dev.netlob.spotistats"
+      },
+      {
+       "title": "Spotify for Artists",
+       "developer": "Spotify",
+       "id": 1222021797,
+       "url": "https://apps.apple.com/us/app/spotify-for-artists/id1222021797?uo=4",
+       "match": "similar",
+       "bundle_id": "com.spotify.s4a"
+      },
+      {
+       "title": "Spotify for Creators",
+       "developer": "Spotify",
+       "id": 1056182234,
+       "url": "https://apps.apple.com/us/app/spotify-for-creators/id1056182234?uo=4",
+       "match": "similar",
+       "bundle_id": "com.anchorfminc.Anchor"
+      },
+      {
+       "title": "must.fm for Spotify Stats",
+       "developer": "VICTORY LABS S.L.",
+       "id": 6444621447,
+       "url": "https://apps.apple.com/us/app/must-fm-for-spotify-stats/id6444621447?uo=4",
+       "match": "similar",
+       "bundle_id": "com.spotistats.music.app"
+      },
+      {
+       "title": "Stats for Spotify Music +",
+       "developer": "MyApps",
+       "id": 6448855892,
+       "url": "https://apps.apple.com/us/app/stats-for-spotify-music/id6448855892?uo=4",
+       "match": "similar",
+       "bundle_id": "com.stats.for.spotify"
+      }
+     ],
+     "status": "taken",
+     "detail": "1 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify",
+     "source": "iTunes Search API"
+    },
+    {
+     "check": "app",
+     "target": "Google Play",
+     "checked_at": "2026-10-19T11:09:10Z",
+     "matches": [
+      {
+       "title": "Spotify: Music and Podcasts",
+       "package": "com.spotify.music",
+       "developer": "Spotify AB",
+       "match": "exact",
+       "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
+      },
+      {
+       "title": "Spotify: Music & Podcasts",
+       "package": "com.spotify.tv.android",
+       "developer": "Spotify AB",
+       "match": "exact",
+       "url": "https://play.google.com/store/apps/details?id=com.spotify.tv.android"
+      },
+      {
+       "title": "Spotify for Creators",
+       "package": "fm.anchor.android",
+       "developer": "Spotify AB",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=fm.anchor.android"
+      },
+      {
+       "title": "Spotify for Artists",
+       "package": "com.spotify.s4a",
+       "developer": "Spotify AB",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=com.spotify.s4a"
+      },
+      {
+       "title": "Spotify Kids",
+       "package": "com.spotify.kids",
+       "developer": "Spotify AB",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=com.spotify.kids"
+      },
+      {
+       "title": "stats.fm for Spotify",
+       "package": "dev.netlob.spotistats",
+       "developer": "StatsFM B.V.",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=dev.netlob.spotistats"
+      },
+      {
+       "title": "Musis - Rate Music for Spotify",
+       "package": "com.musis.musis",
+       "developer": "Musis App",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=com.musis.musis"
+      }
+     ],
+     "source": "Google Play search page",
+     "status": "taken",
+     "detail": "2 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify AB; 'Spotify: Music & Podcasts' by Spotify AB"
+    }
+   ],
+   "trademarks": [
+    {
+     "check": "trademark",
+     "country": "us",
+     "database": "USPTO trademark search (tmsearch.uspto.gov)",
+     "checked_at": "2026-10-19T11:09:11Z",
+     "matches": [
+      {
+       "mark": "SPOTIFY",
+       "number": "Ser. 97746263",
+       "serial": "97746263",
+       "registration_number": null,
+       "status": "LIVE - FOURTH EXTENSION - GRANTED",
+       "owner": "Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 014",
+        "IC 016",
+        "IC 018",
+        "IC 021",
+        "IC 024",
+        "IC 025",
+        "IC 043",
+        "IC 038",
+        "IC 035",
+        "IC 041",
+        "IC 028"
+       ],
+       "office": "US",
+       "filed": "2023-01-09T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=97746263&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "Reg. 3561218 / Ser. 79037568",
+       "serial": "79037568",
+       "registration_number": "3561218",
+       "status": "LIVE - SECTION 71 & 15-ACCEPTED AND ACKNOWLEDGED",
+       "owner": "Spotify Technology Holding (UNKNOWN; Not in List); Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 038",
+        "IC 009",
+        "IC 035",
+        "IC 041"
+       ],
+       "office": "US",
+       "filed": "2007-01-04T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=79037568&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "Reg. 5794869 / Ser. 87108365",
+       "serial": "87108365",
+       "registration_number": "5794869",
+       "status": "LIVE - SECTION 8 & 15-ACCEPTED AND ACKNOWLEDGED",
+       "owner": "Spotify AB (limited company (ltd.); SWEDEN)",
+       "classes": [
+        "IC 025"
+       ],
+       "office": "US",
+       "filed": "2016-07-19T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=87108365&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "Reg. 3564798 / Ser. 79037569",
+       "serial": "79037569",
+       "registration_number": "3564798",
+       "status": "DEAD - CANCELLED - SECTION 71",
+       "owner": "Spotify AB (Legal limited company; SWEDEN); Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 041",
+        "IC 009",
+        "IC 035",
+        "IC 038"
+       ],
+       "office": "US",
+       "filed": "2007-01-04T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=79037569&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "ASK FOR HER SPOTIFY, NOT HER SNAPCHAT",
+       "number": "Ser. 50104819",
+       "serial": "50104819",
+       "registration_number": null,
+       "status": "LIVE - NEW APPLICATION - RECORD INITIALIZED NOT ASSIGNED TO EXAMINER",
+       "owner": "Ilexa Rae Skulnick (INDIVIDUAL; USA)",
+       "classes": [
+        "IC 041"
+       ],
+       "office": "US",
+       "filed": "2026-09-12T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=50104819&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "HEY SPOTIFY",
+       "number": "Ser. 90899737",
+       "serial": "90899737",
+       "registration_number": null,
+       "status": "DEAD - ABANDONED - NO STATEMENT OF USE FILED",
+       "owner": "Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 042",
+        "IC 038",
+        "IC 009",
+        "IC 041"
+       ],
+       "office": "US",
+       "filed": "2021-08-24T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=90899737&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPORTIFY",
+       "number": "Reg. 6888846 / Ser. 97060781",
+       "serial": "97060781",
+       "registration_number": "6888846",
+       "status": "LIVE - REGISTERED",
+       "owner": "ENLASYS S DE RL DE CV (sociedad de responsabilidad limitada (s. de r.l.); MEXICO)",
+       "classes": [
+        "IC 010"
+       ],
+       "office": "US",
+       "filed": "2021-10-05T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=97060781&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPORTIFY",
+       "number": "Reg. 7216114 / Ser. 97352670",
+       "serial": "97352670",
+       "registration_number": "7216114",
+       "status": "LIVE - REGISTERED",
+       "owner": "Sportify, LLC (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+       "classes": [
+        "IC 025"
+       ],
+       "office": "US",
+       "filed": "2022-04-07T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=97352670&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPORTIFY",
+       "number": "Ser. 85735675",
+       "serial": "85735675",
+       "registration_number": null,
+       "status": "DEAD - ABANDONED - NO STATEMENT OF USE FILED",
+       "owner": "Sports Asylum, Inc. (CORPORATION; NEVADA, USA)",
+       "classes": [
+        "IC 045"
+       ],
+       "office": "US",
+       "filed": "2012-09-21T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=85735675&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPORTIFY",
+       "number": "Reg. 5562367 / Ser. 87545420",
+       "serial": "87545420",
+       "registration_number": "5562367",
+       "status": "LIVE - SECTION 8-ACCEPTED",
+       "owner": "Risko Strategies, LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+       "classes": [
+        "IC 036"
+       ],
+       "office": "US",
+       "filed": "2017-07-27T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=87545420&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPOTIFY ACTIVE AUDIO",
+       "number": "Reg. 6927079 / Ser. 88069870",
+       "serial": "88069870",
+       "registration_number": "6927079",
+       "status": "LIVE - REGISTERED",
+       "owner": "Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 038",
+        "IC 009",
+        "IC 035",
+        "IC 041"
+       ],
+       "office": "US",
+       "filed": "2018-08-08T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=88069870&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "SPOTIFY TAKT",
+       "number": "Reg. 7882918 / Ser. 97125163",
+       "serial": "97125163",
+       "registration_number": "7882918",
+       "status": "LIVE - REGISTERED",
+       "owner": "Spotify AB (CORPORATION; SWEDEN)",
+       "classes": [
+        "IC 036",
+        "IC 042"
+       ],
+       "office": "US",
+       "filed": "2021-11-15T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=97125163&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      }
+     ],
+     "manual_url": "https://tmsearch.uspto.gov/search/search-information",
+     "total_hits": 50,
+     "status": "identical",
+     "detail": "4 identical and 16 similar mark(s) among 50 hits for 'Spotify'"
+    },
+    {
+     "check": "trademark",
+     "country": "eu",
+     "database": "EUIPO eSearch plus",
+     "checked_at": "2026-10-19T11:09:11Z",
+     "matches": [
+      {
+       "mark": "SPOTIFY",
+       "number": "015603228",
+       "registration_number": "015603228",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "25"
+       ],
+       "office": "EM",
+       "filed": "1467327600000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/015603228",
+       "match": "identical",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "018737588",
+       "registration_number": "018737588",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "14, 16, 18, 21, 24, 25, 28, 35, 41, 43"
+       ],
+       "office": "EM",
+       "filed": "1658703600000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/018737588",
+       "match": "identical",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "W00921642",
+       "registration_number": null,
+       "status": "IR accepted",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/W00921642",
+       "match": "identical",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "Spotify",
+       "number": "W00921643",
+       "registration_number": null,
+       "status": "IR accepted",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/W00921643",
+       "match": "identical",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "HEY SPOTIFY",
+       "number": "018637514",
+       "registration_number": "018637514",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 38, 41, 42"
+       ],
+       "office": "EM",
+       "filed": "1641942000000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/018637514",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY ACTIVE AUDIO",
+       "number": "017927915",
+       "registration_number": "017927915",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "1531090800000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/017927915",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY ACTIVE VIDEO",
+       "number": "017927910",
+       "registration_number": "017927910",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "1531090800000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/017927910",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY DOK",
+       "number": "018682836",
+       "registration_number": "018682836",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 16, 25, 41"
+       ],
+       "office": "EM",
+       "filed": "1649199600000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/018682836",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY FANS FIRST",
+       "number": "019003210",
+       "registration_number": "019003210",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "1711062000000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/019003210",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY PLAY EVERYWHERE",
+       "number": "010824894",
+       "registration_number": "010824894",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "9, 35, 38, 41"
+       ],
+       "office": "EM",
+       "filed": "1334876400000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/010824894",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY TAKT",
+       "number": "018591777",
+       "registration_number": "018591777",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "36, 42"
+       ],
+       "office": "EM",
+       "filed": "1635807600000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/018591777",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      },
+      {
+       "mark": "SPOTIFY TECHBYTES",
+       "number": "018046146",
+       "registration_number": "018046146",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        "41"
+       ],
+       "office": "EM",
+       "filed": "1554073200000",
+       "url": "https://euipo.europa.eu/eSearch/#details/trademarks/018046146",
+       "match": "similar",
+       "database": "EUIPO eSearch plus"
+      }
+     ],
+     "manual_url": "https://euipo.europa.eu/eSearch/",
+     "total_hits": 12,
+     "status": "identical",
+     "detail": "4 identical and 8 similar mark(s) among 12 hits for 'Spotify'"
+    },
+    {
+     "check": "trademark",
+     "country": "uk",
+     "database": "UK IPO register via TMview",
+     "checked_at": "2026-10-19T11:09:11Z",
+     "matches": [
+      {
+       "mark": "SPOTIFY",
+       "number": "UK00003219113",
+       "registration_number": "UK00003219113",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2017-03-16T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000003219113",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "UK00915603228",
+       "registration_number": "UK00915603228",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        25
+       ],
+       "office": "GB",
+       "filed": "2016-07-01T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000915603228",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "UK00003219110",
+       "registration_number": "UK00003219110",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        25,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2017-03-16T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000003219110",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "UK00800921642",
+       "registration_number": "UK00800921642",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2007-01-04T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000800921642",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "UK00003814427",
+       "registration_number": "UK00003814427",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        14,
+        16,
+        18,
+        21,
+        24,
+        25,
+        28,
+        35,
+        41,
+        43
+       ],
+       "office": "GB",
+       "filed": "2022-07-28T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000003814427",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "Spotify",
+       "number": "UK00800921643",
+       "registration_number": "UK00800921643",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2007-01-04T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000800921643",
+       "match": "identical",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "HEY SPOTIFY",
+       "number": "UK00003746042",
+       "registration_number": "UK00003746042",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        38,
+        41,
+        42
+       ],
+       "office": "GB",
+       "filed": "2022-01-21T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000003746042",
+       "match": "similar",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY ACTIVE AUDIO",
+       "number": "UK00917927915",
+       "registration_number": "UK00917927915",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2018-07-09T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000917927915",
+       "match": "similar",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY ACTIVE VIDEO",
+       "number": "UK00917927910",
+       "registration_number": "UK00917927910",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2018-07-09T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000917927910",
+       "match": "similar",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY PLAY EVERYWHERE",
+       "number": "UK00910824894",
+       "registration_number": "UK00910824894",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "GB",
+       "filed": "2012-04-20T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000910824894",
+       "match": "similar",
+       "database": "UK IPO register via TMview"
+      },
+      {
+       "mark": "SPOTIFY TECHBYTES",
+       "number": "UK00918046146",
+       "registration_number": "UK00918046146",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        41
+       ],
+       "office": "GB",
+       "filed": "2019-04-01T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/GB500000918046146",
+       "match": "similar",
+       "database": "UK IPO register via TMview"
+      }
+     ],
+     "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
+     "total_hits": 11,
+     "status": "identical",
+     "detail": "6 identical and 5 similar mark(s) among 11 hits for 'Spotify'"
+    },
+    {
+     "check": "trademark",
+     "country": "wipo",
+     "database": "WIPO Madrid international register via TMview",
+     "checked_at": "2026-10-19T11:09:11Z",
+     "matches": [
+      {
+       "mark": "SPOTIFY",
+       "number": "921642",
+       "registration_number": "921642",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "WO",
+       "filed": "2007-01-04T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/WO500000000921642",
+       "match": "identical",
+       "database": "WIPO Madrid international register via TMview"
+      },
+      {
+       "mark": "SPOTIFY",
+       "number": "1350351",
+       "registration_number": "1350351",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        25
+       ],
+       "office": "WO",
+       "filed": "2017-03-30T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/WO500000001350351",
+       "match": "identical",
+       "database": "WIPO Madrid international register via TMview"
+      },
+      {
+       "mark": "Spotify",
+       "number": "921643",
+       "registration_number": "921643",
+       "status": "Registered",
+       "owner": "Spotify AB",
+       "classes": [
+        9,
+        35,
+        38,
+        41
+       ],
+       "office": "WO",
+       "filed": "2007-01-04T12:00:00.000Z",
+       "url": "https://www.tmdn.org/tmview/#/tmview/detail/WO500000000921643",
+       "match": "identical",
+       "database": "WIPO Madrid international register via TMview"
+      }
+     ],
+     "manual_url": "https://branddb.wipo.int/",
+     "total_hits": 3,
+     "status": "identical",
+     "detail": "3 identical and 0 similar mark(s) among 3 hits for 'Spotify'"
+    }
+   ]
+  }
+ },
+ "variations": null,
+ "method": [
+  "Domains: each name was looked up in the registry's own RDAP service (chosen from the IANA bootstrap file; port-43 WHOIS for registries without RDAP such as .co) and cross-checked against DNS delegation with two public resolvers. 'Available' is reported only when the registry says the name is not registered AND DNS has no delegation for it; disagreement is reported as couldn't confirm.",
+  "X (Twitter): the public profile page x.com/<handle> is fetched anonymously. An existing account returns the profile (title '<name> (@handle) / X'); a free handle returns X's 404 'User Profile Not Found' page. Suspended or protected accounts can also show the 404 page, so 'available' on X means 'no public profile' — a rate-limit or challenge page is reported as couldn't confirm. Verified in the same run with a random control handle and X's own @x account.",
+  "Instagram has no public availability API. The exact profile URL instagram.com/<handle>/ is fetched anonymously with a link-preview crawler user agent (the only way Instagram serves profile metadata without a login): a profile with og:type=profile means taken; Instagram's bare shell with no profile metadata means no public account. A login wall, rate limit ('please wait a few minutes') or challenge is reported as couldn't confirm — never guessed. Each run re-verifies the method with a random control handle (must read available) and Instagram's own @instagram (must read taken).",
+  "TikTok has no public availability API. The exact profile URL tiktok.com/@<handle> is fetched anonymously; because TikTok is not reachable from the checker's own network it is read through a third-party page reader (r.jina.ai). A profile title '<name> (@handle) | TikTok' means taken; TikTok's 'Couldn't find this account' page means available; a captcha, redirect or timeout is couldn't confirm. Each run re-verifies the method with a random control handle and @tiktok.",
+  "GitHub: the public REST API api.github.com/users/<handle> (200 taken, 404 available), falling back to the profile page when the API rate limit is hit; organisations count as taken.",
+  "YouTube: the handle URL youtube.com/@<handle> — a channel page means taken, YouTube's 404 means available.",
+  "Reddit: every anonymous lookup route (username_available.json, user about.json, old.reddit.com) is blocked by Reddit's network-security wall from this checker's network, so Reddit is reported as couldn't confirm with the URL to check by hand.",
+  "Telegram: the public t.me/<handle> page — a user, bot, channel or group card (tgme_page_title) means taken; Telegram's bare 'Contact @handle' page means available. Usernames listed or sold on fragment.com are reported as taken. Verified each run with a random control handle and @telegram.",
+  "LinkedIn: the public vanity URLs linkedin.com/in/<handle> and linkedin.com/company/<handle> are fetched anonymously with a browser user agent. A public profile or company page means taken. LinkedIn hides non-public profiles behind a wall (HTTP 999), so when nothing public is found the result is couldn't confirm, not available.",
+  "App stores: Apple App Store via the public iTunes Search API (exact-name matches plus close variants are listed); Google Play via its public search page (parsed from HTML; reported as couldn't confirm when the page cannot be read).",
+  "Trademarks: USPTO (United States), EUIPO (European Union), UK IPO (United Kingdom), WIPO Global Brand Database (international) were searched in these public registers: USPTO trademark search (tmsearch.uspto.gov); EUIPO eSearch plus; UK IPO register via TMview; WIPO Madrid international register via TMview. The USPTO is searched in the USPTO's own trademark search backend (tmsearch.uspto.gov), the EUIPO in EUIPO eSearch plus, and the UK IPO and WIPO Madrid registers through TMview (the EUIPO/TMDN federated search; TMview is also the fallback when a national search is down). Each search asks for marks containing the name (the USPTO search also fuzzy-matches); a hit is listed as 'identical' when its text equals the name and 'similar' when the name is a whole word of the mark, the mark is the name plus a short suffix, or the mark is one typo away (two for names of 10+ characters). Each row carries the application/registration number, status, owner, Nice classes and a link to the official record. Marks that are only phonetically or visually close are not detected: that is an attorney's search.",
+  "Certainty: 'Taken' and 'Available' are reported only on a positive signal from the source named; everything else (login walls, rate limits, challenge pages, timeouts, registries that did not answer) is 'Couldn't confirm'."
+ ],
+ "rules": "No domain or handle in this report was registered, reserved or bought by this service, and none will be. The names you asked about are not stored beyond this job, and are never shared or sold.",
+ "disclaimer": "Trademark results are a starting point, not legal advice. They come from automated searches of public databases for identical or very similar marks; whether a mark is confusingly similar is a legal judgment, so have a trademark attorney review any name you intend to use commercially.",
+ "calibration": {
+  "telegram": {
+   "neg": true,
+   "pos": true
+  },
+  "x": {
+   "neg": true,
+   "pos": true
+  },
+  "linkedin": {
+   "neg": false,
+   "pos": false
+  },
+  "instagram": {
+   "neg": true,
+   "pos": true
+  },
+  "tiktok": {
+   "neg": true,
+   "pos": true
+  }
+ },
+ "finished_at": "2026-10-19T11:09:11Z"
+}

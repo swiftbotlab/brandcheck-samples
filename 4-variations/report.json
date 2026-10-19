@@ -1,0 +1,1617 @@
+{
+ "generated_at": "2026-10-19T11:10:14Z",
+ "request": {
+  "names": [
+   "Nebulite"
+  ],
+  "tlds": [
+   "com",
+   "io",
+   "ai"
+  ],
+  "platforms": [
+   "x",
+   "instagram",
+   "tiktok",
+   "github"
+  ],
+  "tm": [
+   "us",
+   "eu"
+  ],
+  "variations": true
+ },
+ "results": {
+  "Nebulite": {
+   "name": "Nebulite",
+   "label": "nebulite",
+   "handle": "nebulite",
+   "domains": [
+    {
+     "check": "domain",
+     "target": ".com",
+     "domain": "nebulite.com",
+     "checked_at": "2026-10-19T11:10:40Z",
+     "status": "taken",
+     "detail": "registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated",
+     "registrar": "ReclaimDomains LLC",
+     "created": "2014-01-29",
+     "expires": "2028-01-29",
+     "registry_status": [
+      "client transfer prohibited"
+     ],
+     "sources": [
+      "RDAP rdap.verisign.com",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".io",
+     "domain": "nebulite.io",
+     "checked_at": "2026-10-19T11:10:40Z",
+     "status": "taken",
+     "detail": "registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated",
+     "registrar": "Porkbun LLC",
+     "created": "2019-03-04",
+     "expires": "2027-03-04",
+     "registry_status": [
+      "client delete prohibited",
+      "client transfer prohibited"
+     ],
+     "sources": [
+      "RDAP rdap.identitydigital.services",
+      "DNS (delegated)"
+     ]
+    },
+    {
+     "check": "domain",
+     "target": ".ai",
+     "domain": "nebulite.ai",
+     "checked_at": "2026-10-19T11:10:39Z",
+     "status": "available",
+     "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+     "sources": [
+      "RDAP rdap.identitydigital.services",
+      "DNS (nxdomain)"
+     ]
+    }
+   ],
+   "handles": [
+    {
+     "check": "handle",
+     "platform": "x",
+     "handle": "nebulite",
+     "checked_at": "2026-10-19T11:10:40Z",
+     "status": "taken",
+     "detail": "account exists: Elda Dalla Longa (@nebulite)",
+     "evidence": {
+      "url": "https://x.com/nebulite",
+      "http": 200,
+      "title": "Elda Dalla Longa (@nebulite) / X"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "instagram",
+     "handle": "nebulite",
+     "checked_at": "2026-10-19T11:10:39Z",
+     "status": "available",
+     "detail": "no public account at instagram.com/nebulite (bare shell, no profile metadata)",
+     "evidence": {
+      "url": "https://www.instagram.com/nebulite/",
+      "http": 200,
+      "final": "https://www.instagram.com/nebulite/",
+      "title": "Instagram"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "tiktok",
+     "handle": "nebulite",
+     "checked_at": "2026-10-19T11:10:39Z",
+     "status": "taken",
+     "detail": "account exists: nebulite (@nebulite)",
+     "evidence": {
+      "url": "https://www.tiktok.com/@nebulite",
+      "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+      "reader_http": 200,
+      "title": "nebulite (@nebulite) | TikTok"
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    },
+    {
+     "check": "handle",
+     "platform": "github",
+     "handle": "nebulite",
+     "checked_at": "2026-10-19T11:10:39Z",
+     "status": "taken",
+     "detail": "user account exists: slo",
+     "evidence": {
+      "url": "https://api.github.com/users/nebulite",
+      "http": 200
+     },
+     "controls": {
+      "neg": true,
+      "pos": true
+     }
+    }
+   ],
+   "apps": [
+    {
+     "check": "app",
+     "target": "Apple App Store",
+     "checked_at": "2026-10-19T11:10:41Z",
+     "matches": [
+      {
+       "title": "NEBULITE",
+       "developer": "Veit Nachtmann",
+       "id": 1521767032,
+       "url": "https://apps.apple.com/us/app/nebulite/id1521767032?uo=4",
+       "match": "exact",
+       "bundle_id": "io.nebulite.smart"
+      },
+      {
+       "title": "Nebulite Wars",
+       "developer": "Amol Samant",
+       "id": 6791648257,
+       "url": "https://apps.apple.com/us/app/nebulite-wars/id6791648257?uo=4",
+       "match": "similar",
+       "bundle_id": "com.gameyantra.nebulitewars"
+      }
+     ],
+     "status": "taken",
+     "detail": "1 app(s) named exactly this: 'NEBULITE' by Veit Nachtmann",
+     "source": "iTunes Search API"
+    },
+    {
+     "check": "app",
+     "target": "Google Play",
+     "checked_at": "2026-10-19T11:10:41Z",
+     "matches": [
+      {
+       "title": "Nebulite: Brick Breaker RPG",
+       "package": "com.nebulite.app",
+       "developer": "cer0126",
+       "match": "exact",
+       "url": "https://play.google.com/store/apps/details?id=com.nebulite.app"
+      },
+      {
+       "title": "Nebulite Wars",
+       "package": "com.gameyantra.nebulitewars",
+       "developer": "Gameyantra",
+       "match": "similar",
+       "url": "https://play.google.com/store/apps/details?id=com.gameyantra.nebulitewars"
+      }
+     ],
+     "source": "Google Play search page",
+     "status": "taken",
+     "detail": "1 app(s) named exactly this: 'Nebulite: Brick Breaker RPG' by cer0126"
+    }
+   ],
+   "trademarks": [
+    {
+     "check": "trademark",
+     "country": "us",
+     "database": "USPTO trademark search (tmsearch.uspto.gov)",
+     "checked_at": "2026-10-19T11:10:41Z",
+     "matches": [
+      {
+       "mark": "NEBULITE",
+       "number": "Ser. 86953801",
+       "serial": "86953801",
+       "registration_number": null,
+       "status": "DEAD - ABANDONED - NO STATEMENT OF USE FILED",
+       "owner": "Nebulite Technology Inc. (CORPORATION; CALIFORNIA, USA)",
+       "classes": [
+        "IC 011"
+       ],
+       "office": "US",
+       "filed": "2016-03-25T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=86953801&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEBULITE",
+       "number": "Reg. 5627473 / Ser. 87898355",
+       "serial": "87898355",
+       "registration_number": "5627473",
+       "status": "DEAD - CANCELLED - SECTION 8",
+       "owner": "Nebulite Technology Inc. (CORPORATION; CALIFORNIA, USA)",
+       "classes": [
+        "IC 011"
+       ],
+       "office": "US",
+       "filed": "2018-04-27T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=87898355&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEBULITE",
+       "number": "Reg. 1186401 / Ser. 73277498",
+       "serial": "73277498",
+       "registration_number": "1186401",
+       "status": "DEAD - CANCELLED - SECTION 8",
+       "owner": "Nebulite Aluminium Industries Limited (COMPANY; NEW ZEALAND)",
+       "classes": [
+        "IC 006"
+       ],
+       "office": "US",
+       "filed": "1980-09-10T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=73277498&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "identical",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEBULIDE",
+       "number": "Ser. 99662884",
+       "serial": "99662884",
+       "registration_number": null,
+       "status": "LIVE - SUSPENSION LETTER - MAILED",
+       "owner": "Syntharise Chemical Inc. (CORPORATION; Ontario, Canada)",
+       "classes": [
+        "IC 035",
+        "IC 003"
+       ],
+       "office": "US",
+       "filed": "2026-02-20T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=99662884&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEBULITA",
+       "number": "Reg. 8371818 / Ser. 99123785",
+       "serial": "99123785",
+       "registration_number": "8371818",
+       "status": "LIVE - REGISTERED",
+       "owner": "Moshe Sultan (INDIVIDUAL; Israel); Bar Sultan (INDIVIDUAL; Israel)",
+       "classes": [
+        "IC 020"
+       ],
+       "office": "US",
+       "filed": "2025-04-07T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=99123785&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEULITE",
+       "number": "Ser. 74427388",
+       "serial": "74427388",
+       "registration_number": null,
+       "status": "DEAD - ABANDONED - NO STATEMENT OF USE FILED",
+       "owner": "TOPEAK INC. (CORPORATION; TAIWAN)",
+       "classes": [
+        "IC 012"
+       ],
+       "office": "US",
+       "filed": "1993-08-20T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=74427388&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      },
+      {
+       "mark": "NEULITE",
+       "number": "Reg. 5782696 / Ser. 87771896",
+       "serial": "87771896",
+       "registration_number": "5782696",
+       "status": "LIVE - SECTION 8-ACCEPTED",
+       "owner": "Nan Ya Plastics Corporation (CORPORATION; TAIWAN)",
+       "classes": [
+        "IC 019"
+       ],
+       "office": "US",
+       "filed": "2018-01-26T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=87771896&caseType=SERIAL_NO&searchType=statusSearch",
+       "match": "similar",
+       "database": "USPTO trademark search (tmsearch.uspto.gov)"
+      }
+     ],
+     "manual_url": "https://tmsearch.uspto.gov/search/search-information",
+     "total_hits": 50,
+     "status": "identical",
+     "detail": "3 identical and 4 similar mark(s) among 50 hits for 'Nebulite'"
+    },
+    {
+     "check": "trademark",
+     "country": "eu",
+     "database": "EUIPO eSearch plus",
+     "checked_at": "2026-10-19T11:10:40Z",
+     "matches": [],
+     "manual_url": "https://euipo.europa.eu/eSearch/",
+     "total_hits": 0,
+     "status": "none",
+     "detail": "no identical or very similar mark among 0 hits for 'Nebulite'"
+    }
+   ]
+  }
+ },
+ "variations": {
+  "base": "Nebulite",
+  "passed": [
+   {
+    "name": "nebuliteapp",
+    "checked_at": "2026-10-19T11:10:49Z",
+    "domains_free": [
+     "nebuliteapp.ai",
+     "nebuliteapp.com",
+     "nebuliteapp.io"
+    ],
+    "handles_free": [
+     "instagram",
+     "x",
+     "github",
+     "tiktok"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteapp (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteapp/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteapp/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteapp.ai",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteapp (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteapp",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteapp.com",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteapp.io",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteapp",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteapp",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebulitehq",
+    "checked_at": "2026-10-19T11:10:55Z",
+    "domains_free": [
+     "nebulitehq.ai",
+     "nebulitehq.io",
+     "nebulitehq.com"
+    ],
+    "handles_free": [
+     "instagram",
+     "github",
+     "x",
+     "tiktok"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebulitehq.ai",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebulitehq (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebulitehq/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebulitehq/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebulitehq",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebulitehq (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebulitehq",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebulitehq.io",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebulitehq.com",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:55Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebulitehq",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebuliteai",
+    "checked_at": "2026-10-19T11:11:02Z",
+    "domains_free": [
+     "nebuliteai.com",
+     "nebuliteai.ai",
+     "nebuliteai.io"
+    ],
+    "handles_free": [
+     "instagram",
+     "github",
+     "tiktok",
+     "x"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteai (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteai/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteai/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteai.com",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteai.ai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteai.io",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteai",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:11:02Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteai",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteai (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteai",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebulitelabs",
+    "checked_at": "2026-10-19T11:11:12Z",
+    "domains_free": [
+     "nebulitelabs.ai",
+     "nebulitelabs.io",
+     "nebulitelabs.com"
+    ],
+    "handles_free": [
+     "x",
+     "instagram",
+     "tiktok",
+     "github"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebulitelabs (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebulitelabs",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebulitelabs (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebulitelabs/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebulitelabs/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebulitelabs.ai",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:12Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebulitelabs",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebulitelabs.io",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebulitelabs",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebulitelabs.com",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebuliteio",
+    "checked_at": "2026-10-19T11:11:19Z",
+    "domains_free": [
+     "nebuliteio.ai",
+     "nebuliteio.io",
+     "nebuliteio.com"
+    ],
+    "handles_free": [
+     "x",
+     "github",
+     "tiktok",
+     "instagram"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteio (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteio",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteio.ai",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteio.io",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteio",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:19Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteio",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteio (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteio/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteio/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteio.com",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   }
+  ],
+  "tried": [
+   {
+    "name": "nebuliteapp",
+    "checked_at": "2026-10-19T11:10:49Z",
+    "domains_free": [
+     "nebuliteapp.ai",
+     "nebuliteapp.com",
+     "nebuliteapp.io"
+    ],
+    "handles_free": [
+     "instagram",
+     "x",
+     "github",
+     "tiktok"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteapp (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteapp/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteapp/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteapp.ai",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteapp (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteapp",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteapp.com",
+      "checked_at": "2026-10-19T11:10:42Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteapp.io",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:41Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteapp",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteapp",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteapp",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebulitehq",
+    "checked_at": "2026-10-19T11:10:55Z",
+    "domains_free": [
+     "nebulitehq.ai",
+     "nebulitehq.io",
+     "nebulitehq.com"
+    ],
+    "handles_free": [
+     "instagram",
+     "github",
+     "x",
+     "tiktok"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebulitehq.ai",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebulitehq (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebulitehq/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebulitehq/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebulitehq",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebulitehq (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebulitehq",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebulitehq.io",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebulitehq.com",
+      "checked_at": "2026-10-19T11:10:49Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebulitehq",
+      "checked_at": "2026-10-19T11:10:55Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebulitehq",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebuliteai",
+    "checked_at": "2026-10-19T11:11:02Z",
+    "domains_free": [
+     "nebuliteai.com",
+     "nebuliteai.ai",
+     "nebuliteai.io"
+    ],
+    "handles_free": [
+     "instagram",
+     "github",
+     "tiktok",
+     "x"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteai (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteai/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteai/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteai.com",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteai.ai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteai.io",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteai",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:11:02Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteai",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteai",
+      "checked_at": "2026-10-19T11:10:56Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteai (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteai",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebulitelabs",
+    "checked_at": "2026-10-19T11:11:12Z",
+    "domains_free": [
+     "nebulitelabs.ai",
+     "nebulitelabs.io",
+     "nebulitelabs.com"
+    ],
+    "handles_free": [
+     "x",
+     "instagram",
+     "tiktok",
+     "github"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebulitelabs (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebulitelabs",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebulitelabs (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebulitelabs/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebulitelabs/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebulitelabs.ai",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:12Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebulitelabs",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebulitelabs.io",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebulitelabs",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebulitelabs",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebulitelabs.com",
+      "checked_at": "2026-10-19T11:11:03Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   },
+   {
+    "name": "nebuliteio",
+    "checked_at": "2026-10-19T11:11:19Z",
+    "domains_free": [
+     "nebuliteio.ai",
+     "nebuliteio.io",
+     "nebuliteio.com"
+    ],
+    "handles_free": [
+     "x",
+     "github",
+     "tiktok",
+     "instagram"
+    ],
+    "unconfirmed": [],
+    "rows": {
+     "handle:x": {
+      "check": "handle",
+      "platform": "x",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no public profile at x.com/nebuliteio (X 404 page)",
+      "evidence": {
+       "url": "https://x.com/nebuliteio",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:ai": {
+      "check": "domain",
+      "target": ".ai",
+      "domain": "nebuliteio.ai",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "domain:io": {
+      "check": "domain",
+      "target": ".io",
+      "domain": "nebuliteio.io",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.identitydigital.services",
+       "DNS (nxdomain)"
+      ]
+     },
+     "handle:github": {
+      "check": "handle",
+      "platform": "github",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no user or organisation with this name (GitHub API)",
+      "evidence": {
+       "url": "https://api.github.com/users/nebuliteio",
+       "http": 404
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:tiktok": {
+      "check": "handle",
+      "platform": "tiktok",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:19Z",
+      "status": "available",
+      "detail": "TikTok shows 'Couldn't find this account'",
+      "evidence": {
+       "url": "https://www.tiktok.com/@nebuliteio",
+       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
+       "reader_http": 200,
+       "title": "Couldn’t find this account. Visit TikTok to discover more trending creators, hashtags, and sounds."
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "handle:instagram": {
+      "check": "handle",
+      "platform": "instagram",
+      "handle": "nebuliteio",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "no public account at instagram.com/nebuliteio (bare shell, no profile metadata)",
+      "evidence": {
+       "url": "https://www.instagram.com/nebuliteio/",
+       "http": 200,
+       "final": "https://www.instagram.com/nebuliteio/",
+       "title": "Instagram"
+      },
+      "controls": {
+       "neg": true,
+       "pos": true
+      }
+     },
+     "domain:com": {
+      "check": "domain",
+      "target": ".com",
+      "domain": "nebuliteio.com",
+      "checked_at": "2026-10-19T11:11:13Z",
+      "status": "available",
+      "detail": "not in the registry (RDAP rdap.verisign.com) and no DNS delegation",
+      "sources": [
+       "RDAP rdap.verisign.com",
+       "DNS (nxdomain)"
+      ]
+     }
+    },
+    "passed": true,
+    "reason": "free on every requested domain and platform"
+   }
+  ]
+ },
+ "method": [
+  "Domains: each name was looked up in the registry's own RDAP service (chosen from the IANA bootstrap file; port-43 WHOIS for registries without RDAP such as .co) and cross-checked against DNS delegation with two public resolvers. 'Available' is reported only when the registry says the name is not registered AND DNS has no delegation for it; disagreement is reported as couldn't confirm.",
+  "X (Twitter): the public profile page x.com/<handle> is fetched anonymously. An existing account returns the profile (title '<name> (@handle) / X'); a free handle returns X's 404 'User Profile Not Found' page. Suspended or protected accounts can also show the 404 page, so 'available' on X means 'no public profile' — a rate-limit or challenge page is reported as couldn't confirm. Verified in the same run with a random control handle and X's own @x account.",
+  "Instagram has no public availability API. The exact profile URL instagram.com/<handle>/ is fetched anonymously with a link-preview crawler user agent (the only way Instagram serves profile metadata without a login): a profile with og:type=profile means taken; Instagram's bare shell with no profile metadata means no public account. A login wall, rate limit ('please wait a few minutes') or challenge is reported as couldn't confirm — never guessed. Each run re-verifies the method with a random control handle (must read available) and Instagram's own @instagram (must read taken).",
+  "TikTok has no public availability API. The exact profile URL tiktok.com/@<handle> is fetched anonymously; because TikTok is not reachable from the checker's own network it is read through a third-party page reader (r.jina.ai). A profile title '<name> (@handle) | TikTok' means taken; TikTok's 'Couldn't find this account' page means available; a captcha, redirect or timeout is couldn't confirm. Each run re-verifies the method with a random control handle and @tiktok.",
+  "GitHub: the public REST API api.github.com/users/<handle> (200 taken, 404 available), falling back to the profile page when the API rate limit is hit; organisations count as taken.",
+  "App stores: Apple App Store via the public iTunes Search API (exact-name matches plus close variants are listed); Google Play via its public search page (parsed from HTML; reported as couldn't confirm when the page cannot be read).",
+  "Trademarks: USPTO (United States), EUIPO (European Union) were searched in these public registers: USPTO trademark search (tmsearch.uspto.gov); EUIPO eSearch plus. The USPTO is searched in the USPTO's own trademark search backend (tmsearch.uspto.gov), the EUIPO in EUIPO eSearch plus, and the UK IPO and WIPO Madrid registers through TMview (the EUIPO/TMDN federated search; TMview is also the fallback when a national search is down). Each search asks for marks containing the name (the USPTO search also fuzzy-matches); a hit is listed as 'identical' when its text equals the name and 'similar' when the name is a whole word of the mark, the mark is the name plus a short suffix, or the mark is one typo away (two for names of 10+ characters). Each row carries the application/registration number, status, owner, Nice classes and a link to the official record. Marks that are only phonetically or visually close are not detected: that is an attorney's search.",
+  "Certainty: 'Taken' and 'Available' are reported only on a positive signal from the source named; everything else (login walls, rate limits, challenge pages, timeouts, registries that did not answer) is 'Couldn't confirm'."
+ ],
+ "rules": "No domain or handle in this report was registered, reserved or bought by this service, and none will be. The names you asked about are not stored beyond this job, and are never shared or sold.",
+ "disclaimer": "Trademark results are a starting point, not legal advice. They come from automated searches of public databases for identical or very similar marks; whether a mark is confusingly similar is a legal judgment, so have a trademark attorney review any name you intend to use commercially.",
+ "calibration": {
+  "x": {
+   "neg": true,
+   "pos": true
+  },
+  "instagram": {
+   "neg": true,
+   "pos": true
+  },
+  "tiktok": {
+   "neg": true,
+   "pos": true
+  }
+ },
+ "finished_at": "2026-10-19T11:11:19Z"
+}
