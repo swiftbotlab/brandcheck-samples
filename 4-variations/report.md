@@ -1,6 +1,6 @@
 # Brand name availability report
 
-Generated 2026-10-19T11:10:14Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
+Generated 2026-10-19T11:17:27Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
 
 ## Findings
 
@@ -22,17 +22,17 @@ Checked as domain label `nebulite` and handle `nebulite`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | nebulite.com | Taken | registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated | 2026-10-19T11:10:40Z |
-| Domain | nebulite.io | Taken | registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated | 2026-10-19T11:10:40Z |
-| Domain | nebulite.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:10:39Z |
-| Handle | X (Twitter) @nebulite | Taken | account exists: Elda Dalla Longa (@nebulite) | 2026-10-19T11:10:40Z |
-| Handle | Instagram @nebulite | Available | no public account at instagram.com/nebulite (bare shell, no profile metadata) | 2026-10-19T11:10:39Z |
-| Handle | TikTok @nebulite | Taken | account exists: nebulite (@nebulite) | 2026-10-19T11:10:39Z |
-| Handle | GitHub @nebulite | Taken | user account exists: slo | 2026-10-19T11:10:39Z |
-| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'NEBULITE' by Veit Nachtmann | 2026-10-19T11:10:41Z |
-| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Nebulite: Brick Breaker RPG' by cer0126 | 2026-10-19T11:10:41Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (3 identical, 4 similar) | 3 identical and 4 similar mark(s) among 50 hits for 'Nebulite' | 2026-10-19T11:10:41Z |
-| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:10:40Z |
+| Domain | nebulite.com | Taken | registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated | 2026-10-19T11:18:00Z |
+| Domain | nebulite.io | Taken | registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated | 2026-10-19T11:17:59Z |
+| Domain | nebulite.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:18:00Z |
+| Handle | X (Twitter) @nebulite | Taken | account exists: Elda Dalla Longa (@nebulite) | 2026-10-19T11:18:00Z |
+| Handle | Instagram @nebulite | Available | no public account at instagram.com/nebulite (bare shell, no profile metadata) | 2026-10-19T11:17:59Z |
+| Handle | TikTok @nebulite | Taken | account exists: nebulite (@nebulite) | 2026-10-19T11:18:00Z |
+| Handle | GitHub @nebulite | Taken | user account exists: slo | 2026-10-19T11:18:00Z |
+| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'NEBULITE' by Veit Nachtmann | 2026-10-19T11:18:00Z |
+| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Nebulite: Brick Breaker RPG' by cer0126 | 2026-10-19T11:17:59Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (3 identical, 4 similar) | 3 identical and 4 similar mark(s) among 50 hits for 'Nebulite' | 2026-10-19T11:18:00Z |
+| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:18:00Z |
 
 ### Matching apps for Nebulite
 
@@ -61,13 +61,11 @@ Each suggestion below was free on **every** requested domain extension and platf
 
 | Suggestion | Domains free | Handles free | Couldn't confirm | Checked (UTC) |
 |---|---|---|---|---|
-| `nebuliteapp` | nebuliteapp.ai, nebuliteapp.com, nebuliteapp.io | Instagram, X (Twitter), GitHub, TikTok | — | 2026-10-19T11:10:49Z |
-| `nebulitehq` | nebulitehq.ai, nebulitehq.io, nebulitehq.com | Instagram, GitHub, X (Twitter), TikTok | — | 2026-10-19T11:10:55Z |
-| `nebuliteai` | nebuliteai.com, nebuliteai.ai, nebuliteai.io | Instagram, GitHub, TikTok, X (Twitter) | — | 2026-10-19T11:11:02Z |
-| `nebulitelabs` | nebulitelabs.ai, nebulitelabs.io, nebulitelabs.com | X (Twitter), Instagram, TikTok, GitHub | — | 2026-10-19T11:11:12Z |
-| `nebuliteio` | nebuliteio.ai, nebuliteio.io, nebuliteio.com | X (Twitter), GitHub, TikTok, Instagram | — | 2026-10-19T11:11:19Z |
-
-Tried and rejected: .
+| `nebuliteapp` | nebuliteapp.ai, nebuliteapp.com, nebuliteapp.io | X (Twitter), Instagram, GitHub, TikTok | — | 2026-10-19T11:18:06Z |
+| `nebulitehq` | nebulitehq.io, nebulitehq.com, nebulitehq.ai | Instagram, X (Twitter), GitHub, TikTok | — | 2026-10-19T11:18:14Z |
+| `nebuliteai` | nebuliteai.io, nebuliteai.com, nebuliteai.ai | Instagram, GitHub, X (Twitter), TikTok | — | 2026-10-19T11:18:21Z |
+| `nebulitelabs` | nebulitelabs.ai, nebulitelabs.io, nebulitelabs.com | GitHub, X (Twitter), Instagram, TikTok | — | 2026-10-19T11:18:29Z |
+| `nebuliteio` | nebuliteio.com, nebuliteio.ai, nebuliteio.io | GitHub, Instagram, TikTok, X (Twitter) | — | 2026-10-19T11:18:55Z |
 
 ## How each check was made, and how sure it is
 

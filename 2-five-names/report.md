@@ -1,14 +1,14 @@
 # Brand name availability report
 
-Generated 2026-10-19T11:09:11Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
+Generated 2026-10-19T11:18:55Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
 
 ## Findings
 
 - **Zephyrly** — domains: .io, .ai, .dev free; .com, .co, .app taken; handles: taken on X (Twitter), Instagram, TikTok, GitHub, YouTube, Telegram; couldn't confirm Reddit, LinkedIn; apps: no exact-name app found; trademarks: 1 identical, 0 similar mark(s).
 - **Nebulite** — domains: .ai free; .com, .io, .co, .app, .dev taken; handles: free on Instagram, YouTube; taken on X (Twitter), TikTok, GitHub, Telegram; couldn't confirm Reddit, LinkedIn; apps: 2 exact-name app(s); trademarks: 4 identical, 4 similar mark(s).
 - **Quillora** — domains: .io, .ai, .co free; .com, .app, .dev taken; handles: free on X (Twitter); taken on Instagram, TikTok, GitHub, YouTube, Telegram; couldn't confirm Reddit, LinkedIn; apps: 1 exact-name app(s); trademarks: 1 identical, 4 similar mark(s).
-- **Vantrix** — domains: .dev free; .com, .io, .ai, .co, .app taken; handles: free on Instagram; taken on X (Twitter), TikTok, GitHub, YouTube, Telegram; couldn't confirm Reddit, LinkedIn; apps: no exact-name app found; trademarks: 8 identical, 12 similar mark(s).
-- **Lumeno** — domains: .com, .io, .ai, .co, .app, .dev taken; handles: free on YouTube; taken on X (Twitter), Instagram, TikTok, GitHub, Telegram; couldn't confirm Reddit, LinkedIn; apps: 2 exact-name app(s); trademarks: 8 identical, 16 similar mark(s).
+- **Vantrix** — domains: .dev free; .com, .io, .ai, .co, .app taken; handles: free on Instagram; taken on X (Twitter), TikTok, GitHub, YouTube, Telegram, LinkedIn; couldn't confirm Reddit; apps: no exact-name app found; trademarks: 8 identical, 50 similar mark(s).
+- **Lumeno** — domains: .com, .io, .ai, .co, .app, .dev taken; handles: free on YouTube; taken on X (Twitter), Instagram, TikTok, GitHub, Telegram; couldn't confirm Reddit, LinkedIn; apps: 2 exact-name app(s); trademarks: 8 identical, 49 similar mark(s).
 
 ## What was checked
 
@@ -25,26 +25,26 @@ Checked as domain label `zephyrly` and handle `zephyrly`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | zephyrly.com | Taken | registrar: GoDaddy.com, LLC; registered 2017-05-30; expires 2027-05-30; DNS delegated | 2026-10-19T11:09:36Z |
-| Domain | zephyrly.io | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:09:35Z |
-| Domain | zephyrly.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:09:36Z |
-| Domain | zephyrly.co | Taken | registrar: GoDaddy.com, LLC; registered 2022-04-20; DNS delegated | 2026-10-19T11:09:37Z |
-| Domain | zephyrly.app | Taken | registrar: CloudFlare, Inc.; registered 2026-04-12; expires 2027-04-12; DNS delegated | 2026-10-19T11:09:37Z |
-| Domain | zephyrly.dev | Available | not in the registry (RDAP pubapi.registry.google) and no DNS delegation | 2026-10-19T11:09:36Z |
-| Handle | X (Twitter) @zephyrly | Taken | account exists: Lee J. Boyajian (@zephyrly) | 2026-10-19T11:09:36Z |
-| Handle | Instagram @zephyrly | Taken | profile metadata present at instagram.com/zephyrly | 2026-10-19T11:09:37Z |
-| Handle | TikTok @zephyrly | Taken | account exists (private account) | 2026-10-19T11:09:43Z |
-| Handle | GitHub @zephyrly | Taken | user account exists | 2026-10-19T11:09:35Z |
-| Handle | YouTube @zephyrly | Taken | channel exists: Evening Glow | 2026-10-19T11:09:36Z |
-| Handle | Reddit @zephyrly | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/zephyrly | 2026-10-19T11:09:36Z |
-| Handle | Telegram @zephyrly | Taken | user or bot exists: Татьянка | 2026-10-19T11:09:36Z |
-| Handle | LinkedIn @zephyrly | Couldn't confirm | no public company page or profile at linkedin.com/company/zephyrly or /in/zephyrly; LinkedIn hides non-public profiles from anonymous visitors, so check while signed in | 2026-10-19T11:09:37Z |
-| App store | Apple App Store | No exact-name app | no app with this name among 37 search results | 2026-10-19T11:09:36Z |
-| App store | Google Play | No exact-name app | no app with this name among 30 parsed results | 2026-10-19T11:09:37Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (1 identical, 0 similar) | 1 identical and 0 similar mark(s) among 50 hits for 'Zephyrly' | 2026-10-19T11:09:37Z |
-| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:09:37Z |
-| Trademark | UK IPO register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:09:37Z |
-| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:09:37Z |
+| Domain | zephyrly.com | Taken | registrar: GoDaddy.com, LLC; registered 2017-05-30; expires 2027-05-30; DNS delegated | 2026-10-19T11:19:22Z |
+| Domain | zephyrly.io | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:19:21Z |
+| Domain | zephyrly.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:19:21Z |
+| Domain | zephyrly.co | Taken | registrar: GoDaddy.com, LLC; registered 2022-04-20; DNS delegated | 2026-10-19T11:19:22Z |
+| Domain | zephyrly.app | Taken | registrar: CloudFlare, Inc.; registered 2026-04-12; expires 2027-04-12; DNS delegated | 2026-10-19T11:19:21Z |
+| Domain | zephyrly.dev | Available | not in the registry (RDAP pubapi.registry.google) and no DNS delegation | 2026-10-19T11:19:21Z |
+| Handle | X (Twitter) @zephyrly | Taken | account exists: Lee J. Boyajian (@zephyrly) | 2026-10-19T11:19:20Z |
+| Handle | Instagram @zephyrly | Taken | profile metadata present at instagram.com/zephyrly | 2026-10-19T11:19:21Z |
+| Handle | TikTok @zephyrly | Taken | account exists (private account) | 2026-10-19T11:19:30Z |
+| Handle | GitHub @zephyrly | Taken | user account exists | 2026-10-19T11:19:21Z |
+| Handle | YouTube @zephyrly | Taken | channel exists: Evening Glow | 2026-10-19T11:19:21Z |
+| Handle | Reddit @zephyrly | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/zephyrly | 2026-10-19T11:19:23Z |
+| Handle | Telegram @zephyrly | Taken | user or bot exists: Татьянка | 2026-10-19T11:19:22Z |
+| Handle | LinkedIn @zephyrly | Couldn't confirm | no public company page or profile at linkedin.com/company/zephyrly or /in/zephyrly; LinkedIn hides non-public profiles from anonymous visitors, so check while signed in | 2026-10-19T11:19:23Z |
+| App store | Apple App Store | No exact-name app | no app with this name among 37 search results | 2026-10-19T11:19:22Z |
+| App store | Google Play | No exact-name app | no app with this name among 30 parsed results | 2026-10-19T11:19:23Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (1 identical, 0 similar) | 1 identical and 0 similar mark(s) among 50 hits for 'Zephyrly' | 2026-10-19T11:19:23Z |
+| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:19:23Z |
+| Trademark | UK IPO register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:19:23Z |
+| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Zephyrly' | 2026-10-19T11:19:23Z |
 
 ### Trademark marks found for Zephyrly
 
@@ -58,26 +58,26 @@ Checked as domain label `nebulite` and handle `nebulite`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | nebulite.com | Taken | registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated | 2026-10-19T11:09:44Z |
-| Domain | nebulite.io | Taken | registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated | 2026-10-19T11:09:44Z |
-| Domain | nebulite.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:09:44Z |
-| Domain | nebulite.co | Taken | registrar: Dynadot Inc; registered 2026-05-15; DNS delegated | 2026-10-19T11:09:44Z |
-| Domain | nebulite.app | Taken | registrar: CloudFlare, Inc.; registered 2026-07-03; expires 2027-07-03; DNS delegated | 2026-10-19T11:09:46Z |
-| Domain | nebulite.dev | Taken | registrar: Namecheap Inc.; registered 2025-08-13; expires 2026-08-13; registered but not delegated in DNS | 2026-10-19T11:09:45Z |
-| Handle | X (Twitter) @nebulite | Taken | account exists: Elda Dalla Longa (@nebulite) | 2026-10-19T11:09:44Z |
-| Handle | Instagram @nebulite | Available | no public account at instagram.com/nebulite (bare shell, no profile metadata) | 2026-10-19T11:09:44Z |
-| Handle | TikTok @nebulite | Taken | account exists: nebulite (@nebulite) | 2026-10-19T11:09:51Z |
-| Handle | GitHub @nebulite | Taken | user account exists: slo | 2026-10-19T11:09:43Z |
-| Handle | YouTube @nebulite | Available | no channel with this handle | 2026-10-19T11:09:44Z |
-| Handle | Reddit @nebulite | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/nebulite | 2026-10-19T11:09:44Z |
-| Handle | Telegram @nebulite | Taken | user or bot exists: TestCustomer | 2026-10-19T11:09:44Z |
-| Handle | LinkedIn @nebulite | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:09:45Z |
-| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'NEBULITE' by Veit Nachtmann | 2026-10-19T11:09:45Z |
-| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Nebulite: Brick Breaker RPG' by cer0126 | 2026-10-19T11:09:45Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (3 identical, 4 similar) | 3 identical and 4 similar mark(s) among 50 hits for 'Nebulite' | 2026-10-19T11:09:45Z |
-| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:09:45Z |
-| Trademark | UK IPO register via TMview | Identical mark found (1 identical, 0 similar) | 1 identical and 0 similar mark(s) among 1 hits for 'Nebulite' | 2026-10-19T11:09:45Z |
-| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:09:45Z |
+| Domain | nebulite.com | Taken | registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated | 2026-10-19T11:19:31Z |
+| Domain | nebulite.io | Taken | registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated | 2026-10-19T11:19:31Z |
+| Domain | nebulite.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:19:31Z |
+| Domain | nebulite.co | Taken | registrar: Dynadot Inc; registered 2026-05-15; DNS delegated | 2026-10-19T11:19:32Z |
+| Domain | nebulite.app | Taken | registrar: CloudFlare, Inc.; registered 2026-07-03; expires 2027-07-03; DNS delegated | 2026-10-19T11:19:31Z |
+| Domain | nebulite.dev | Taken | registrar: Namecheap Inc.; registered 2025-08-13; expires 2026-08-13; registered but not delegated in DNS | 2026-10-19T11:19:31Z |
+| Handle | X (Twitter) @nebulite | Taken | account exists: Elda Dalla Longa (@nebulite) | 2026-10-19T11:19:31Z |
+| Handle | Instagram @nebulite | Available | no public account at instagram.com/nebulite (bare shell, no profile metadata) | 2026-10-19T11:19:31Z |
+| Handle | TikTok @nebulite | Taken | account exists: nebulite (@nebulite) | 2026-10-19T11:19:32Z |
+| Handle | GitHub @nebulite | Taken | user account exists: slo | 2026-10-19T11:19:31Z |
+| Handle | YouTube @nebulite | Available | no channel with this handle | 2026-10-19T11:19:31Z |
+| Handle | Reddit @nebulite | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/nebulite | 2026-10-19T11:19:32Z |
+| Handle | Telegram @nebulite | Taken | user or bot exists: TestCustomer | 2026-10-19T11:19:31Z |
+| Handle | LinkedIn @nebulite | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:19:32Z |
+| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'NEBULITE' by Veit Nachtmann | 2026-10-19T11:19:31Z |
+| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Nebulite: Brick Breaker RPG' by cer0126 | 2026-10-19T11:19:32Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (3 identical, 4 similar) | 3 identical and 4 similar mark(s) among 50 hits for 'Nebulite' | 2026-10-19T11:19:32Z |
+| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:19:32Z |
+| Trademark | UK IPO register via TMview | Identical mark found (1 identical, 0 similar) | 1 identical and 0 similar mark(s) among 1 hits for 'Nebulite' | 2026-10-19T11:19:32Z |
+| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Nebulite' | 2026-10-19T11:19:32Z |
 
 ### Matching apps for Nebulite
 
@@ -107,26 +107,26 @@ Checked as domain label `quillora` and handle `quillora`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | quillora.com | Taken | registrar: DropCatch.com 1429 LLC; registered 2026-06-02; expires 2027-06-02; DNS delegated | 2026-10-19T11:09:53Z |
-| Domain | quillora.io | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:09:53Z |
-| Domain | quillora.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:09:53Z |
-| Domain | quillora.co | Available | not in the registry (WHOIS whois.registry.co) and no DNS delegation | 2026-10-19T11:09:52Z |
-| Domain | quillora.app | Taken | registrar: CloudFlare, Inc.; registered 2026-04-14; expires 2027-04-14; DNS delegated | 2026-10-19T11:09:52Z |
-| Domain | quillora.dev | Taken | registrar: Name.com, Inc.; registered 2026-09-25; expires 2027-09-25; DNS delegated | 2026-10-19T11:09:52Z |
-| Handle | X (Twitter) @quillora | Available | no public profile at x.com/quillora (X 404 page) | 2026-10-19T11:09:52Z |
-| Handle | Instagram @quillora | Taken | profile metadata present at instagram.com/quillora | 2026-10-19T11:09:52Z |
-| Handle | TikTok @quillora | Taken | account exists: quillora (@quillora) | 2026-10-19T11:09:57Z |
-| Handle | GitHub @quillora | Taken | organization account exists: Quillora | 2026-10-19T11:09:51Z |
-| Handle | YouTube @quillora | Taken | channel exists: Quillora | 2026-10-19T11:09:52Z |
-| Handle | Reddit @quillora | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/quillora | 2026-10-19T11:09:52Z |
-| Handle | Telegram @quillora | Taken | user or bot exists: quillora | 2026-10-19T11:09:52Z |
-| Handle | LinkedIn @quillora | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:09:53Z |
-| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Quillora' by OLIVER UZIEL LADRON DE GUEVARA TOPETE | 2026-10-19T11:09:53Z |
-| App store | Google Play | No exact-name app | no app with this name among 29 parsed results | 2026-10-19T11:09:53Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (1 identical, 4 similar) | 1 identical and 4 similar mark(s) among 50 hits for 'Quillora' | 2026-10-19T11:09:53Z |
-| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:09:53Z |
-| Trademark | UK IPO register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:09:53Z |
-| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:09:53Z |
+| Domain | quillora.com | Taken | registrar: DropCatch.com 1429 LLC; registered 2026-06-02; expires 2027-06-02; DNS delegated | 2026-10-19T11:19:33Z |
+| Domain | quillora.io | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:19:33Z |
+| Domain | quillora.ai | Available | not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation | 2026-10-19T11:19:34Z |
+| Domain | quillora.co | Available | not in the registry (WHOIS whois.registry.co) and no DNS delegation | 2026-10-19T11:19:33Z |
+| Domain | quillora.app | Taken | registrar: CloudFlare, Inc.; registered 2026-04-14; expires 2027-04-14; DNS delegated | 2026-10-19T11:19:33Z |
+| Domain | quillora.dev | Taken | registrar: Name.com, Inc.; registered 2026-09-25; expires 2027-09-25; DNS delegated | 2026-10-19T11:19:33Z |
+| Handle | X (Twitter) @quillora | Available | no public profile at x.com/quillora (X 404 page) | 2026-10-19T11:19:33Z |
+| Handle | Instagram @quillora | Taken | profile metadata present at instagram.com/quillora | 2026-10-19T11:19:34Z |
+| Handle | TikTok @quillora | Taken | account exists: quillora (@quillora) | 2026-10-19T11:19:33Z |
+| Handle | GitHub @quillora | Taken | organization account exists: Quillora | 2026-10-19T11:19:33Z |
+| Handle | YouTube @quillora | Taken | channel exists: Quillora | 2026-10-19T11:19:34Z |
+| Handle | Reddit @quillora | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/quillora | 2026-10-19T11:19:34Z |
+| Handle | Telegram @quillora | Taken | user or bot exists: quillora | 2026-10-19T11:19:34Z |
+| Handle | LinkedIn @quillora | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:19:34Z |
+| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Quillora' by OLIVER UZIEL LADRON DE GUEVARA TOPETE | 2026-10-19T11:19:34Z |
+| App store | Google Play | No exact-name app | no app with this name among 29 parsed results | 2026-10-19T11:19:34Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (1 identical, 4 similar) | 1 identical and 4 similar mark(s) among 50 hits for 'Quillora' | 2026-10-19T11:19:35Z |
+| Trademark | EUIPO eSearch plus | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:19:34Z |
+| Trademark | UK IPO register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:19:34Z |
+| Trademark | WIPO Madrid international register via TMview | No identical or similar marks | no identical or very similar mark among 0 hits for 'Quillora' | 2026-10-19T11:19:35Z |
 
 ### Matching apps for Quillora
 
@@ -150,26 +150,26 @@ Checked as domain label `vantrix` and handle `vantrix`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | vantrix.com | Taken | registrar: easyDNS Technologies Inc.; registered 2003-07-05; expires 2027-07-05; DNS delegated | 2026-10-19T11:09:58Z |
-| Domain | vantrix.io | Taken | registrar: PDR Ltd. d/b/a PublicDomainRegistry.com; registered 2026-04-08; expires 2027-04-08; DNS delegated | 2026-10-19T11:09:58Z |
-| Domain | vantrix.ai | Taken | registrar: InternetX; registered 2026-03-11; expires 2028-03-11; DNS delegated | 2026-10-19T11:09:58Z |
-| Domain | vantrix.co | Taken | registrar: Hosting Concepts B.V. d/b/a Registrar.eu; registered 2026-05-18; DNS delegated | 2026-10-19T11:09:58Z |
-| Domain | vantrix.app | Taken | registrar: GoDaddy.com, LLC; registered 2026-03-19; expires 2028-03-19; DNS delegated | 2026-10-19T11:09:59Z |
-| Domain | vantrix.dev | Available | not in the registry (RDAP pubapi.registry.google) and no DNS delegation | 2026-10-19T11:09:59Z |
-| Handle | X (Twitter) @vantrix | Taken | account exists: Vantrix (@vantrix) | 2026-10-19T11:09:58Z |
-| Handle | Instagram @vantrix | Available | no public account at instagram.com/vantrix (bare shell, no profile metadata) | 2026-10-19T11:09:59Z |
-| Handle | TikTok @vantrix | Taken | account exists: vaniatrix (@vantrix) | 2026-10-19T11:10:05Z |
-| Handle | GitHub @vantrix | Taken | user account exists | 2026-10-19T11:09:58Z |
-| Handle | YouTube @vantrix | Taken | channel exists: Mullen Dyh. | 2026-10-19T11:09:58Z |
-| Handle | Reddit @vantrix | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/vantrix | 2026-10-19T11:09:59Z |
-| Handle | Telegram @vantrix | Taken | user or bot exists: Van Illac Cordero | 2026-10-19T11:09:58Z |
-| Handle | LinkedIn @vantrix | Couldn't confirm | platform serves the same page to anonymous visitors for every handle (control check failed); company page exists: Vantrix | 2026-10-19T11:09:59Z |
-| App store | Apple App Store | No exact-name app | no app with exactly this name; 1 similar: Vantrix Melxo - String Assist | 2026-10-19T11:09:59Z |
-| App store | Google Play | No exact-name app | no app with this name among 27 parsed results | 2026-10-19T11:09:59Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (2 identical, 10 similar) | 2 identical and 48 similar mark(s) among 50 hits for 'Vantrix' | 2026-10-19T11:10:00Z |
-| Trademark | EUIPO eSearch plus | Identical mark found (3 identical, 1 similar) | 3 identical and 1 similar mark(s) among 4 hits for 'Vantrix' | 2026-10-19T11:10:00Z |
-| Trademark | UK IPO register via TMview | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 2 hits for 'Vantrix' | 2026-10-19T11:10:00Z |
-| Trademark | WIPO Madrid international register via TMview | Identical mark found (1 identical, 1 similar) | 1 identical and 1 similar mark(s) among 2 hits for 'Vantrix' | 2026-10-19T11:10:00Z |
+| Domain | vantrix.com | Taken | registrar: easyDNS Technologies Inc.; registered 2003-07-05; expires 2027-07-05; DNS delegated | 2026-10-19T11:19:37Z |
+| Domain | vantrix.io | Taken | registrar: PDR Ltd. d/b/a PublicDomainRegistry.com; registered 2026-04-08; expires 2027-04-08; DNS delegated | 2026-10-19T11:19:37Z |
+| Domain | vantrix.ai | Taken | registrar: InternetX; registered 2026-03-11; expires 2028-03-11; DNS delegated | 2026-10-19T11:19:37Z |
+| Domain | vantrix.co | Taken | registrar: Hosting Concepts B.V. d/b/a Registrar.eu; registered 2026-05-18; DNS delegated | 2026-10-19T11:19:36Z |
+| Domain | vantrix.app | Taken | registrar: GoDaddy.com, LLC; registered 2026-03-19; expires 2028-03-19; DNS delegated | 2026-10-19T11:19:36Z |
+| Domain | vantrix.dev | Available | not in the registry (RDAP pubapi.registry.google) and no DNS delegation | 2026-10-19T11:19:36Z |
+| Handle | X (Twitter) @vantrix | Taken | account exists: Vantrix (@vantrix) | 2026-10-19T11:19:36Z |
+| Handle | Instagram @vantrix | Available | no public account at instagram.com/vantrix (bare shell, no profile metadata) | 2026-10-19T11:19:36Z |
+| Handle | TikTok @vantrix | Taken | account exists: vaniatrix (@vantrix) | 2026-10-19T11:19:36Z |
+| Handle | GitHub @vantrix | Taken | user account exists | 2026-10-19T11:19:35Z |
+| Handle | YouTube @vantrix | Taken | channel exists: Mullen Dyh. | 2026-10-19T11:19:36Z |
+| Handle | Reddit @vantrix | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/vantrix | 2026-10-19T11:19:36Z |
+| Handle | Telegram @vantrix | Taken | user or bot exists: Van Illac Cordero | 2026-10-19T11:19:36Z |
+| Handle | LinkedIn @vantrix | Taken | company page exists: Vantrix | 2026-10-19T11:19:36Z |
+| App store | Apple App Store | No exact-name app | no app with exactly this name; 1 similar: Vantrix Melxo - String Assist | 2026-10-19T11:19:37Z |
+| App store | Google Play | No exact-name app | no app with this name among 27 parsed results | 2026-10-19T11:19:36Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (2 identical, 48 similar) | 2 identical and 48 similar mark(s) among 50 hits for 'Vantrix' | 2026-10-19T11:19:37Z |
+| Trademark | EUIPO eSearch plus | Identical mark found (3 identical, 1 similar) | 3 identical and 1 similar mark(s) among 4 hits for 'Vantrix' | 2026-10-19T11:19:37Z |
+| Trademark | UK IPO register via TMview | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 2 hits for 'Vantrix' | 2026-10-19T11:19:37Z |
+| Trademark | WIPO Madrid international register via TMview | Identical mark found (1 identical, 1 similar) | 1 identical and 1 similar mark(s) among 2 hits for 'Vantrix' | 2026-10-19T11:19:37Z |
 
 ### Matching apps for Vantrix
 
@@ -192,7 +192,7 @@ Checked as domain label `vantrix` and handle `vantrix`.
 | USPTO trademark search (tmsearch.uspto.gov) | VAETRIX | Reg. 1152269 / Ser. 73236525 | LIVE - REGISTERED AND RENEWED | Taylor Tools, Inc. (CORPORATION; OKLAHOMA, USA); JM TEST SYSTEMS LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA) | IC 009 | similar | [open](https://tsdr.uspto.gov/#caseNumber=73236525&caseType=SERIAL_NO&searchType=statusSearch) |
 | USPTO trademark search (tmsearch.uspto.gov) | VAITRIX | Reg. 5708150 / Ser. 87952015 | LIVE - SECTION 8 & 15-ACCEPTED AND ACKNOWLEDGED | HUI-CHEN LIN (INDIVIDUAL; TAIWAN) | IC 012 | similar | [open](https://tsdr.uspto.gov/#caseNumber=87952015&caseType=SERIAL_NO&searchType=statusSearch) |
 | USPTO trademark search (tmsearch.uspto.gov) | VALTRIX | Ser. 99853217 | LIVE - PUBLICATION/ISSUE REVIEW COMPLETE | Fimeray LLC (LIMITED LIABILITY COMPANY; Wyoming, USA) | IC 035 | similar | [open](https://tsdr.uspto.gov/#caseNumber=99853217&caseType=SERIAL_NO&searchType=statusSearch) |
-| USPTO trademark search (tmsearch.uspto.gov) | VANTIX | Ser. 77301969 | DEAD - ABANDONED - NO STATEMENT OF USE FILED | Dx Tech LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA) | IC 044, IC 009 | similar | [open](https://tsdr.uspto.gov/#caseNumber=77301969&caseType=SERIAL_NO&searchType=statusSearch) |
+| USPTO trademark search (tmsearch.uspto.gov) | VANTIX | Reg. 7375157 / Ser. 97251414 | LIVE - REGISTERED | Rheem Manufacturing Company (CORPORATION; DELAWARE, USA) | IC 011 | similar | [open](https://tsdr.uspto.gov/#caseNumber=97251414&caseType=SERIAL_NO&searchType=statusSearch) |
 | EUIPO eSearch plus | VANTRIX | 005778162 | Registered | VANTRIX CORPORATION | 9, 42 | identical | [open](https://euipo.europa.eu/eSearch/#details/trademarks/005778162) |
 | EUIPO eSearch plus | VANTRIX | 002956407 | Registration expired | KH LLOREDA, S.A. | 3, 5, 39 | identical | [open](https://euipo.europa.eu/eSearch/#details/trademarks/002956407) |
 | EUIPO eSearch plus | VANTRIX | 001457118 | Registration expired | IVAX International B.V. | 5 | identical | [open](https://euipo.europa.eu/eSearch/#details/trademarks/001457118) |
@@ -208,26 +208,26 @@ Checked as domain label `lumeno` and handle `lumeno`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | lumeno.com | Taken | registrar: InterNetX GmbH; registered 2009-04-10; expires 2028-04-10; DNS delegated | 2026-10-19T11:10:06Z |
-| Domain | lumeno.io | Taken | registrar: Dynadot Inc; registered 2023-05-26; expires 2027-05-26; DNS delegated | 2026-10-19T11:10:07Z |
-| Domain | lumeno.ai | Taken | registrar: NameCheap, Inc.; registered 2023-06-25; expires 2027-06-25; DNS delegated | 2026-10-19T11:10:06Z |
-| Domain | lumeno.co | Taken | registrar: .co Registry; registered 2025-11-07; registered but not delegated in DNS | 2026-10-19T11:10:06Z |
-| Domain | lumeno.app | Taken | registrar: Namecheap Inc.; registered 2025-08-25; expires 2026-08-25; registered but not delegated in DNS | 2026-10-19T11:10:05Z |
-| Domain | lumeno.dev | Taken | registrar: Name.com, Inc.; registered 2026-03-31; expires 2027-03-31; DNS delegated | 2026-10-19T11:10:06Z |
-| Handle | X (Twitter) @lumeno | Taken | account exists: fransisca (@lumeno) | 2026-10-19T11:10:05Z |
-| Handle | Instagram @lumeno | Taken | profile metadata present at instagram.com/lumeno | 2026-10-19T11:10:06Z |
-| Handle | TikTok @lumeno | Taken | account exists: mmiv (@lumeno) | 2026-10-19T11:10:14Z |
-| Handle | GitHub @lumeno | Taken | organization account exists | 2026-10-19T11:10:05Z |
-| Handle | YouTube @lumeno | Available | no channel with this handle | 2026-10-19T11:10:05Z |
-| Handle | Reddit @lumeno | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/lumeno | 2026-10-19T11:10:06Z |
-| Handle | Telegram @lumeno | Taken | user or bot exists: Lumeno | 2026-10-19T11:10:06Z |
-| Handle | LinkedIn @lumeno | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:10:06Z |
-| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Lumeno' by 6S MOBILE | 2026-10-19T11:10:07Z |
-| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Lumeno - Offline Music Player' by Lyxo lab | 2026-10-19T11:10:06Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (2 identical, 10 similar) | 2 identical and 43 similar mark(s) among 50 hits for 'Lumeno' | 2026-10-19T11:10:07Z |
-| Trademark | EUIPO eSearch plus | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 2 hits for 'Lumeno' | 2026-10-19T11:10:07Z |
-| Trademark | UK IPO register via TMview | Identical mark found (2 identical, 6 similar) | 2 identical and 6 similar mark(s) among 19 hits for 'Lumeno' | 2026-10-19T11:10:07Z |
-| Trademark | WIPO Madrid international register via TMview | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 4 hits for 'Lumeno' | 2026-10-19T11:10:07Z |
+| Domain | lumeno.com | Taken | registrar: InterNetX GmbH; registered 2009-04-10; expires 2028-04-10; DNS delegated | 2026-10-19T11:19:38Z |
+| Domain | lumeno.io | Taken | registrar: Dynadot Inc; registered 2023-05-26; expires 2027-05-26; DNS delegated | 2026-10-19T11:19:39Z |
+| Domain | lumeno.ai | Taken | registrar: NameCheap, Inc.; registered 2023-06-25; expires 2027-06-25; DNS delegated | 2026-10-19T11:19:38Z |
+| Domain | lumeno.co | Taken | registrar: .co Registry; registered 2025-11-07; registered but not delegated in DNS | 2026-10-19T11:19:38Z |
+| Domain | lumeno.app | Taken | registrar: Namecheap Inc.; registered 2025-08-25; expires 2026-08-25; registered but not delegated in DNS | 2026-10-19T11:19:38Z |
+| Domain | lumeno.dev | Taken | registrar: Name.com, Inc.; registered 2026-03-31; expires 2027-03-31; DNS delegated | 2026-10-19T11:19:38Z |
+| Handle | X (Twitter) @lumeno | Taken | account exists: fransisca (@lumeno) | 2026-10-19T11:19:39Z |
+| Handle | Instagram @lumeno | Taken | profile metadata present at instagram.com/lumeno | 2026-10-19T11:19:38Z |
+| Handle | TikTok @lumeno | Taken | account exists: mmiv (@lumeno) | 2026-10-19T11:19:38Z |
+| Handle | GitHub @lumeno | Taken | organization account exists | 2026-10-19T11:19:38Z |
+| Handle | YouTube @lumeno | Available | no channel with this handle | 2026-10-19T11:19:38Z |
+| Handle | Reddit @lumeno | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/lumeno | 2026-10-19T11:19:39Z |
+| Handle | Telegram @lumeno | Taken | user or bot exists: Lumeno | 2026-10-19T11:19:38Z |
+| Handle | LinkedIn @lumeno | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:19:39Z |
+| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Lumeno' by 6S MOBILE | 2026-10-19T11:19:39Z |
+| App store | Google Play | Exact-name app exists | 1 app(s) named exactly this: 'Lumeno - Offline Music Player' by Lyxo lab | 2026-10-19T11:19:38Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (2 identical, 43 similar) | 2 identical and 43 similar mark(s) among 50 hits for 'Lumeno' | 2026-10-19T11:19:39Z |
+| Trademark | EUIPO eSearch plus | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 2 hits for 'Lumeno' | 2026-10-19T11:19:39Z |
+| Trademark | UK IPO register via TMview | Identical mark found (2 identical, 6 similar) | 2 identical and 6 similar mark(s) among 19 hits for 'Lumeno' | 2026-10-19T11:19:39Z |
+| Trademark | WIPO Madrid international register via TMview | Identical mark found (2 identical, 0 similar) | 2 identical and 0 similar mark(s) among 4 hits for 'Lumeno' | 2026-10-19T11:19:39Z |
 
 ### Matching apps for Lumeno
 

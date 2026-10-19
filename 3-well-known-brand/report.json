@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T11:08:00Z",
+ "generated_at": "2026-10-19T11:16:58Z",
  "request": {
   "names": [
    "Spotify"
@@ -40,7 +40,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "spotify.com",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "registrar: Abion AB; registered 2006-04-23; expires 2030-04-23; DNS delegated",
      "registrar": "Abion AB",
@@ -62,7 +62,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "spotify.io",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:22Z",
      "status": "taken",
      "detail": "registrar: Abion AB; registered 2012-08-30; expires 2027-08-30; DNS delegated",
      "registrar": "Abion AB",
@@ -80,7 +80,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "spotify.ai",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:22Z",
      "status": "taken",
      "detail": "registrar: Abion AB; registered 2017-12-16; expires 2027-10-11; DNS delegated",
      "registrar": "Abion AB",
@@ -98,7 +98,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "spotify.co",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "registrar: Key-Systems GmbH; registered 2010-07-20; DNS delegated",
      "registrar": "Key-Systems GmbH",
@@ -114,7 +114,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "spotify.app",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "status": "taken",
      "detail": "registrar: Lexsynergy Limited; registered 2018-03-29; expires 2027-03-29; DNS delegated",
      "registrar": "Lexsynergy Limited",
@@ -134,7 +134,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "spotify.dev",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "status": "taken",
      "detail": "registrar: Lexsynergy Limited; registered 2019-02-22; expires 2027-02-22; DNS delegated",
      "registrar": "Lexsynergy Limited",
@@ -156,7 +156,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "account exists: Spotify (@Spotify)",
      "evidence": {
@@ -173,7 +173,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "profile metadata present at instagram.com/spotify",
      "evidence": {
@@ -191,7 +191,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:09Z",
+     "checked_at": "2026-10-19T11:17:22Z",
      "status": "taken",
      "detail": "account exists: Spotify (@spotify)",
      "evidence": {
@@ -209,7 +209,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:22Z",
      "status": "taken",
      "detail": "organization account exists: Spotify",
      "evidence": {
@@ -225,7 +225,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "channel exists: Spotify",
      "evidence": {
@@ -242,7 +242,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/spotify",
      "evidence": {
@@ -262,7 +262,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:23Z",
      "status": "taken",
      "detail": "channel or group exists: 𝗦𝗣𝗢𝗧𝗬 𝗩𝗜𝗕𝗘𝗦 🎧💚",
      "evidence": {
@@ -278,7 +278,7 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "spotify",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "status": "unconfirmed",
      "detail": "LinkedIn answered HTTP 999/999; verify while signed in",
      "evidence": {
@@ -294,7 +294,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -303,7 +303,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "matches": [
       {
        "title": "Spotify: Music and Podcasts",
@@ -361,7 +361,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:09:10Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "matches": [
       {
        "title": "Spotify: Music and Podcasts",
@@ -423,7 +423,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:09:11Z",
+     "checked_at": "2026-10-19T11:17:27Z",
      "matches": [
       {
        "mark": "SPOTIFY",
@@ -643,6 +643,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 4,
+     "n_similar": 16,
      "status": "identical",
      "detail": "4 identical and 16 similar mark(s) among 50 hits for 'Spotify'"
     },
@@ -650,7 +652,7 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:09:11Z",
+     "checked_at": "2026-10-19T11:17:25Z",
      "matches": [
       {
        "mark": "SPOTIFY",
@@ -835,6 +837,8 @@
      ],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 12,
+     "n_identical": 4,
+     "n_similar": 8,
      "status": "identical",
      "detail": "4 identical and 8 similar mark(s) among 12 hits for 'Spotify'"
     },
@@ -842,7 +846,7 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:09:11Z",
+     "checked_at": "2026-10-19T11:17:24Z",
      "matches": [
       {
        "mark": "SPOTIFY",
@@ -1046,6 +1050,8 @@
      ],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 11,
+     "n_identical": 6,
+     "n_similar": 5,
      "status": "identical",
      "detail": "6 identical and 5 similar mark(s) among 11 hits for 'Spotify'"
     },
@@ -1053,7 +1059,7 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:09:11Z",
+     "checked_at": "2026-10-19T11:17:25Z",
      "matches": [
       {
        "mark": "SPOTIFY",
@@ -1109,6 +1115,8 @@
      ],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 3,
+     "n_identical": 3,
+     "n_similar": 0,
      "status": "identical",
      "detail": "3 identical and 0 similar mark(s) among 3 hits for 'Spotify'"
     }
@@ -1133,6 +1141,10 @@
  "rules": "No domain or handle in this report was registered, reserved or bought by this service, and none will be. The names you asked about are not stored beyond this job, and are never shared or sold.",
  "disclaimer": "Trademark results are a starting point, not legal advice. They come from automated searches of public databases for identical or very similar marks; whether a mark is confusingly similar is a legal judgment, so have a trademark attorney review any name you intend to use commercially.",
  "calibration": {
+  "instagram": {
+   "neg": true,
+   "pos": true
+  },
   "telegram": {
    "neg": true,
    "pos": true
@@ -1142,17 +1154,13 @@
    "pos": true
   },
   "linkedin": {
-   "neg": false,
-   "pos": false
-  },
-  "instagram": {
    "neg": true,
-   "pos": true
+   "pos": false
   },
   "tiktok": {
    "neg": true,
    "pos": true
   }
  },
- "finished_at": "2026-10-19T11:09:11Z"
+ "finished_at": "2026-10-19T11:17:27Z"
 }

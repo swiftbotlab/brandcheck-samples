@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T11:04:54Z",
+ "generated_at": "2026-10-19T11:16:26Z",
  "request": {
   "names": [
    "Zephyrly"
@@ -29,7 +29,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "zephyrly.com",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "status": "taken",
      "detail": "registrar: GoDaddy.com, LLC; registered 2017-05-30; expires 2027-05-30; DNS delegated",
      "registrar": "GoDaddy.com, LLC",
@@ -50,7 +50,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "zephyrly.io",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -62,7 +62,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "zephyrly.ai",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -76,7 +76,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "status": "taken",
      "detail": "account exists: Lee J. Boyajian (@zephyrly)",
      "evidence": {
@@ -93,7 +93,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "status": "taken",
      "detail": "profile metadata present at instagram.com/zephyrly",
      "evidence": {
@@ -111,9 +111,9 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:05:18Z",
-     "status": "unconfirmed",
-     "detail": "TikTok could not be read (direct: network: host unreachable (skipped after 2 consecutive failures), reader: 200); verify at tiktok.com/@zephyrly",
+     "checked_at": "2026-10-19T11:16:58Z",
+     "status": "taken",
+     "detail": "account exists (private account)",
      "evidence": {
       "url": "https://www.tiktok.com/@zephyrly",
       "direct_http": "network: host unreachable (skipped after 2 consecutive failures)",
@@ -130,7 +130,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "matches": [],
      "status": "available",
      "detail": "no app with this name among 37 search results",
@@ -139,7 +139,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:05:18Z",
+     "checked_at": "2026-10-19T11:16:51Z",
      "matches": [],
      "source": "Google Play search page",
      "status": "available",
@@ -151,7 +151,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:05:19Z",
+     "checked_at": "2026-10-19T11:16:52Z",
      "matches": [
       {
        "mark": "ZEPHYRLY",
@@ -172,6 +172,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 1,
+     "n_similar": 0,
      "status": "identical",
      "detail": "1 identical and 0 similar mark(s) among 50 hits for 'Zephyrly'"
     }
@@ -185,17 +187,17 @@
   "Instagram has no public availability API. The exact profile URL instagram.com/<handle>/ is fetched anonymously with a link-preview crawler user agent (the only way Instagram serves profile metadata without a login): a profile with og:type=profile means taken; Instagram's bare shell with no profile metadata means no public account. A login wall, rate limit ('please wait a few minutes') or challenge is reported as couldn't confirm — never guessed. Each run re-verifies the method with a random control handle (must read available) and Instagram's own @instagram (must read taken).",
   "TikTok has no public availability API. The exact profile URL tiktok.com/@<handle> is fetched anonymously; because TikTok is not reachable from the checker's own network it is read through a third-party page reader (r.jina.ai). A profile title '<name> (@handle) | TikTok' means taken; TikTok's 'Couldn't find this account' page means available; a captcha, redirect or timeout is couldn't confirm. Each run re-verifies the method with a random control handle and @tiktok.",
   "App stores: Apple App Store via the public iTunes Search API (exact-name matches plus close variants are listed); Google Play via its public search page (parsed from HTML; reported as couldn't confirm when the page cannot be read).",
-  "Trademarks: USPTO (United States) searched through the public TMview search API run by the EUIPO/TMDN network, which federates the USPTO, EUIPO, UK IPO and WIPO Madrid registers; a mark is listed as 'identical' when its text equals the name and 'similar' when the name is a whole word of the mark, differs by one or two characters, or is a short prefix. Each row carries the application/registration number, status, owner, Nice classes and a link to the record.",
+  "Trademarks: USPTO (United States) were searched in these public registers: USPTO trademark search (tmsearch.uspto.gov). The USPTO is searched in the USPTO's own trademark search backend (tmsearch.uspto.gov), the EUIPO in EUIPO eSearch plus, and the UK IPO and WIPO Madrid registers through TMview (the EUIPO/TMDN federated search; TMview is also the fallback when a national search is down). Each search asks for marks containing the name (the USPTO search also fuzzy-matches); a hit is listed as 'identical' when its text equals the name and 'similar' when the name is a whole word of the mark, the mark is the name plus a short suffix, or the mark is one typo away (two for names of 10+ characters). Each row carries the application/registration number, status, owner, Nice classes and a link to the official record. Marks that are only phonetically or visually close are not detected: that is an attorney's search.",
   "Certainty: 'Taken' and 'Available' are reported only on a positive signal from the source named; everything else (login walls, rate limits, challenge pages, timeouts, registries that did not answer) is 'Couldn't confirm'."
  ],
  "rules": "No domain or handle in this report was registered, reserved or bought by this service, and none will be. The names you asked about are not stored beyond this job, and are never shared or sold.",
  "disclaimer": "Trademark results are a starting point, not legal advice. They come from automated searches of public databases for identical or very similar marks; whether a mark is confusingly similar is a legal judgment, so have a trademark attorney review any name you intend to use commercially.",
  "calibration": {
-  "instagram": {
+  "x": {
    "neg": true,
    "pos": true
   },
-  "x": {
+  "instagram": {
    "neg": true,
    "pos": true
   },
@@ -204,5 +206,5 @@
    "pos": true
   }
  },
- "finished_at": "2026-10-19T11:05:31Z"
+ "finished_at": "2026-10-19T11:16:58Z"
 }

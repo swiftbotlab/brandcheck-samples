@@ -1,10 +1,10 @@
 # Brand name availability report
 
-Generated 2026-10-19T11:08:00Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
+Generated 2026-10-19T11:16:58Z (UTC). Every row below carries the UTC time of its own check; availability can change at any moment.
 
 ## Findings
 
-- **Spotify** — domains: .com, .io, .ai, .co, .app, .dev taken; handles: taken on X (Twitter), Instagram, TikTok, GitHub, YouTube, Telegram; couldn't confirm Reddit, LinkedIn; apps: 3 exact-name app(s); trademarks: 17 identical, 21 similar mark(s).
+- **Spotify** — domains: .com, .io, .ai, .co, .app, .dev taken; handles: taken on X (Twitter), Instagram, TikTok, GitHub, YouTube, Telegram; couldn't confirm Reddit, LinkedIn; apps: 3 exact-name app(s); trademarks: 17 identical, 29 similar mark(s).
 
 ## What was checked
 
@@ -21,26 +21,26 @@ Checked as domain label `spotify` and handle `spotify`.
 
 | Check | Target | Result | Details | Checked (UTC) |
 |---|---|---|---|---|
-| Domain | spotify.com | Taken | registrar: Abion AB; registered 2006-04-23; expires 2030-04-23; DNS delegated | 2026-10-19T11:09:09Z |
-| Domain | spotify.io | Taken | registrar: Abion AB; registered 2012-08-30; expires 2027-08-30; DNS delegated | 2026-10-19T11:09:09Z |
-| Domain | spotify.ai | Taken | registrar: Abion AB; registered 2017-12-16; expires 2027-10-11; DNS delegated | 2026-10-19T11:09:09Z |
-| Domain | spotify.co | Taken | registrar: Key-Systems GmbH; registered 2010-07-20; DNS delegated | 2026-10-19T11:09:10Z |
-| Domain | spotify.app | Taken | registrar: Lexsynergy Limited; registered 2018-03-29; expires 2027-03-29; DNS delegated | 2026-10-19T11:09:09Z |
-| Domain | spotify.dev | Taken | registrar: Lexsynergy Limited; registered 2019-02-22; expires 2027-02-22; DNS delegated | 2026-10-19T11:09:09Z |
-| Handle | X (Twitter) @spotify | Taken | account exists: Spotify (@Spotify) | 2026-10-19T11:09:10Z |
-| Handle | Instagram @spotify | Taken | profile metadata present at instagram.com/spotify | 2026-10-19T11:09:10Z |
-| Handle | TikTok @spotify | Taken | account exists: Spotify (@spotify) | 2026-10-19T11:09:09Z |
-| Handle | GitHub @spotify | Taken | organization account exists: Spotify | 2026-10-19T11:09:10Z |
-| Handle | YouTube @spotify | Taken | channel exists: Spotify | 2026-10-19T11:09:10Z |
-| Handle | Reddit @spotify | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/spotify | 2026-10-19T11:09:10Z |
-| Handle | Telegram @spotify | Taken | channel or group exists: 𝗦𝗣𝗢𝗧𝗬 𝗩𝗜𝗕𝗘𝗦 🎧💚 | 2026-10-19T11:09:10Z |
-| Handle | LinkedIn @spotify | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:09:10Z |
-| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify | 2026-10-19T11:09:10Z |
-| App store | Google Play | Exact-name app exists | 2 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify AB; 'Spotify: Music & Podcasts' by Spotify AB | 2026-10-19T11:09:10Z |
-| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (4 identical, 8 similar) | 4 identical and 16 similar mark(s) among 50 hits for 'Spotify' | 2026-10-19T11:09:11Z |
-| Trademark | EUIPO eSearch plus | Identical mark found (4 identical, 8 similar) | 4 identical and 8 similar mark(s) among 12 hits for 'Spotify' | 2026-10-19T11:09:11Z |
-| Trademark | UK IPO register via TMview | Identical mark found (6 identical, 5 similar) | 6 identical and 5 similar mark(s) among 11 hits for 'Spotify' | 2026-10-19T11:09:11Z |
-| Trademark | WIPO Madrid international register via TMview | Identical mark found (3 identical, 0 similar) | 3 identical and 0 similar mark(s) among 3 hits for 'Spotify' | 2026-10-19T11:09:11Z |
+| Domain | spotify.com | Taken | registrar: Abion AB; registered 2006-04-23; expires 2030-04-23; DNS delegated | 2026-10-19T11:17:23Z |
+| Domain | spotify.io | Taken | registrar: Abion AB; registered 2012-08-30; expires 2027-08-30; DNS delegated | 2026-10-19T11:17:22Z |
+| Domain | spotify.ai | Taken | registrar: Abion AB; registered 2017-12-16; expires 2027-10-11; DNS delegated | 2026-10-19T11:17:22Z |
+| Domain | spotify.co | Taken | registrar: Key-Systems GmbH; registered 2010-07-20; DNS delegated | 2026-10-19T11:17:23Z |
+| Domain | spotify.app | Taken | registrar: Lexsynergy Limited; registered 2018-03-29; expires 2027-03-29; DNS delegated | 2026-10-19T11:17:24Z |
+| Domain | spotify.dev | Taken | registrar: Lexsynergy Limited; registered 2019-02-22; expires 2027-02-22; DNS delegated | 2026-10-19T11:17:24Z |
+| Handle | X (Twitter) @spotify | Taken | account exists: Spotify (@Spotify) | 2026-10-19T11:17:23Z |
+| Handle | Instagram @spotify | Taken | profile metadata present at instagram.com/spotify | 2026-10-19T11:17:23Z |
+| Handle | TikTok @spotify | Taken | account exists: Spotify (@spotify) | 2026-10-19T11:17:22Z |
+| Handle | GitHub @spotify | Taken | organization account exists: Spotify | 2026-10-19T11:17:22Z |
+| Handle | YouTube @spotify | Taken | channel exists: Spotify | 2026-10-19T11:17:23Z |
+| Handle | Reddit @spotify | Couldn't confirm | Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/spotify | 2026-10-19T11:17:23Z |
+| Handle | Telegram @spotify | Taken | channel or group exists: 𝗦𝗣𝗢𝗧𝗬 𝗩𝗜𝗕𝗘𝗦 🎧💚 | 2026-10-19T11:17:23Z |
+| Handle | LinkedIn @spotify | Couldn't confirm | LinkedIn answered HTTP 999/999; verify while signed in | 2026-10-19T11:17:24Z |
+| App store | Apple App Store | Exact-name app exists | 1 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify | 2026-10-19T11:17:24Z |
+| App store | Google Play | Exact-name app exists | 2 app(s) named exactly this: 'Spotify: Music and Podcasts' by Spotify AB; 'Spotify: Music & Podcasts' by Spotify AB | 2026-10-19T11:17:24Z |
+| Trademark | USPTO trademark search (tmsearch.uspto.gov) | Identical mark found (4 identical, 16 similar) | 4 identical and 16 similar mark(s) among 50 hits for 'Spotify' | 2026-10-19T11:17:27Z |
+| Trademark | EUIPO eSearch plus | Identical mark found (4 identical, 8 similar) | 4 identical and 8 similar mark(s) among 12 hits for 'Spotify' | 2026-10-19T11:17:25Z |
+| Trademark | UK IPO register via TMview | Identical mark found (6 identical, 5 similar) | 6 identical and 5 similar mark(s) among 11 hits for 'Spotify' | 2026-10-19T11:17:24Z |
+| Trademark | WIPO Madrid international register via TMview | Identical mark found (3 identical, 0 similar) | 3 identical and 0 similar mark(s) among 3 hits for 'Spotify' | 2026-10-19T11:17:25Z |
 
 ### Matching apps for Spotify
 

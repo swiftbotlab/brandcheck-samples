@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T11:09:11Z",
+ "generated_at": "2026-10-19T11:18:55Z",
  "request": {
   "names": [
    "Zephyrly",
@@ -44,7 +44,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "zephyrly.com",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:22Z",
      "status": "taken",
      "detail": "registrar: GoDaddy.com, LLC; registered 2017-05-30; expires 2027-05-30; DNS delegated",
      "registrar": "GoDaddy.com, LLC",
@@ -65,7 +65,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "zephyrly.io",
-     "checked_at": "2026-10-19T11:09:35Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -77,7 +77,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "zephyrly.ai",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -89,7 +89,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "zephyrly.co",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:22Z",
      "status": "taken",
      "detail": "registrar: GoDaddy.com, LLC; registered 2022-04-20; DNS delegated",
      "registrar": "GoDaddy.com, LLC",
@@ -105,7 +105,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "zephyrly.app",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "taken",
      "detail": "registrar: CloudFlare, Inc.; registered 2026-04-12; expires 2027-04-12; DNS delegated",
      "registrar": "CloudFlare, Inc.",
@@ -123,7 +123,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "zephyrly.dev",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "available",
      "detail": "not in the registry (RDAP pubapi.registry.google) and no DNS delegation",
      "sources": [
@@ -137,7 +137,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:20Z",
      "status": "taken",
      "detail": "account exists: Lee J. Boyajian (@zephyrly)",
      "evidence": {
@@ -154,7 +154,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "taken",
      "detail": "profile metadata present at instagram.com/zephyrly",
      "evidence": {
@@ -172,7 +172,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:43Z",
+     "checked_at": "2026-10-19T11:19:30Z",
      "status": "taken",
      "detail": "account exists (private account)",
      "evidence": {
@@ -190,7 +190,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:35Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "taken",
      "detail": "user account exists",
      "evidence": {
@@ -206,7 +206,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:21Z",
      "status": "taken",
      "detail": "channel exists: Evening Glow",
      "evidence": {
@@ -223,7 +223,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/zephyrly",
      "evidence": {
@@ -243,7 +243,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:22Z",
      "status": "taken",
      "detail": "user or bot exists: Татьянка",
      "evidence": {
@@ -259,7 +259,7 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "zephyrly",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "status": "unconfirmed",
      "detail": "no public company page or profile at linkedin.com/company/zephyrly or /in/zephyrly; LinkedIn hides non-public profiles from anonymous visitors, so check while signed in",
      "evidence": {
@@ -275,7 +275,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -284,7 +284,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:09:36Z",
+     "checked_at": "2026-10-19T11:19:22Z",
      "matches": [],
      "status": "available",
      "detail": "no app with this name among 37 search results",
@@ -293,7 +293,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "matches": [],
      "source": "Google Play search page",
      "status": "available",
@@ -305,7 +305,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "matches": [
       {
        "mark": "ZEPHYRLY",
@@ -326,6 +326,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 1,
+     "n_similar": 0,
      "status": "identical",
      "detail": "1 identical and 0 similar mark(s) among 50 hits for 'Zephyrly'"
     },
@@ -333,10 +335,12 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "matches": [],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Zephyrly'"
     },
@@ -344,10 +348,12 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "matches": [],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Zephyrly'"
     },
@@ -355,10 +361,12 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:09:37Z",
+     "checked_at": "2026-10-19T11:19:23Z",
      "matches": [],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Zephyrly'"
     }
@@ -373,7 +381,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "nebulite.com",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "registrar: ReclaimDomains LLC; registered 2014-01-29; expires 2028-01-29; DNS delegated",
      "registrar": "ReclaimDomains LLC",
@@ -391,7 +399,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "nebulite.io",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "registrar: Porkbun LLC; registered 2019-03-04; expires 2027-03-04; DNS delegated",
      "registrar": "Porkbun LLC",
@@ -410,7 +418,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "nebulite.ai",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -422,7 +430,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "nebulite.co",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "status": "taken",
      "detail": "registrar: Dynadot Inc; registered 2026-05-15; DNS delegated",
      "registrar": "Dynadot Inc",
@@ -438,7 +446,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "nebulite.app",
-     "checked_at": "2026-10-19T11:09:46Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "registrar: CloudFlare, Inc.; registered 2026-07-03; expires 2027-07-03; DNS delegated",
      "registrar": "CloudFlare, Inc.",
@@ -456,7 +464,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "nebulite.dev",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "registrar: Namecheap Inc.; registered 2025-08-13; expires 2026-08-13; registered but not delegated in DNS",
      "registrar": "Namecheap Inc.",
@@ -477,7 +485,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "account exists: Elda Dalla Longa (@nebulite)",
      "evidence": {
@@ -494,7 +502,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "available",
      "detail": "no public account at instagram.com/nebulite (bare shell, no profile metadata)",
      "evidence": {
@@ -512,7 +520,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:51Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "status": "taken",
      "detail": "account exists: nebulite (@nebulite)",
      "evidence": {
@@ -530,7 +538,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:43Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "user account exists: slo",
      "evidence": {
@@ -546,7 +554,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "available",
      "detail": "no channel with this handle",
      "evidence": {
@@ -563,7 +571,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/nebulite",
      "evidence": {
@@ -583,7 +591,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:44Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "status": "taken",
      "detail": "user or bot exists: TestCustomer",
      "evidence": {
@@ -599,7 +607,7 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "nebulite",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "status": "unconfirmed",
      "detail": "LinkedIn answered HTTP 999/999; verify while signed in",
      "evidence": {
@@ -615,7 +623,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -624,7 +632,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:31Z",
      "matches": [
       {
        "title": "NEBULITE",
@@ -650,7 +658,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "matches": [
       {
        "title": "Nebulite: Brick Breaker RPG",
@@ -677,7 +685,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "matches": [
       {
        "mark": "NEBULITE",
@@ -795,6 +803,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 3,
+     "n_similar": 4,
      "status": "identical",
      "detail": "3 identical and 4 similar mark(s) among 50 hits for 'Nebulite'"
     },
@@ -802,10 +812,12 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "matches": [],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Nebulite'"
     },
@@ -813,7 +825,7 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "matches": [
       {
        "mark": "nebulite",
@@ -833,6 +845,8 @@
      ],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 1,
+     "n_identical": 1,
+     "n_similar": 0,
      "status": "identical",
      "detail": "1 identical and 0 similar mark(s) among 1 hits for 'Nebulite'"
     },
@@ -840,10 +854,12 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:09:45Z",
+     "checked_at": "2026-10-19T11:19:32Z",
      "matches": [],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Nebulite'"
     }
@@ -858,7 +874,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "quillora.com",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "taken",
      "detail": "registrar: DropCatch.com 1429 LLC; registered 2026-06-02; expires 2027-06-02; DNS delegated",
      "registrar": "DropCatch.com 1429 LLC",
@@ -876,7 +892,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "quillora.io",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -888,7 +904,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "quillora.ai",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "available",
      "detail": "not in the registry (RDAP rdap.identitydigital.services) and no DNS delegation",
      "sources": [
@@ -900,7 +916,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "quillora.co",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "available",
      "detail": "not in the registry (WHOIS whois.registry.co) and no DNS delegation",
      "sources": [
@@ -912,7 +928,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "quillora.app",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "taken",
      "detail": "registrar: CloudFlare, Inc.; registered 2026-04-14; expires 2027-04-14; DNS delegated",
      "registrar": "CloudFlare, Inc.",
@@ -930,7 +946,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "quillora.dev",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "taken",
      "detail": "registrar: Name.com, Inc.; registered 2026-09-25; expires 2027-09-25; DNS delegated",
      "registrar": "Name.com, Inc.",
@@ -950,7 +966,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "available",
      "detail": "no public profile at x.com/quillora (X 404 page)",
      "evidence": {
@@ -966,7 +982,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "taken",
      "detail": "profile metadata present at instagram.com/quillora",
      "evidence": {
@@ -984,7 +1000,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:57Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "taken",
      "detail": "account exists: quillora (@quillora)",
      "evidence": {
@@ -1002,7 +1018,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:51Z",
+     "checked_at": "2026-10-19T11:19:33Z",
      "status": "taken",
      "detail": "organization account exists: Quillora",
      "evidence": {
@@ -1018,7 +1034,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "taken",
      "detail": "channel exists: Quillora",
      "evidence": {
@@ -1035,7 +1051,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/quillora",
      "evidence": {
@@ -1055,7 +1071,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:52Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "taken",
      "detail": "user or bot exists: quillora",
      "evidence": {
@@ -1071,7 +1087,7 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "quillora",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "status": "unconfirmed",
      "detail": "LinkedIn answered HTTP 999/999; verify while signed in",
      "evidence": {
@@ -1087,7 +1103,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -1096,7 +1112,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "matches": [
       {
        "title": "Quillora",
@@ -1114,7 +1130,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "matches": [],
      "source": "Google Play search page",
      "status": "available",
@@ -1126,7 +1142,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:35Z",
      "matches": [
       {
        "mark": "QUILLORA",
@@ -1211,6 +1227,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 1,
+     "n_similar": 4,
      "status": "identical",
      "detail": "1 identical and 4 similar mark(s) among 50 hits for 'Quillora'"
     },
@@ -1218,10 +1236,12 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "matches": [],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Quillora'"
     },
@@ -1229,10 +1249,12 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:34Z",
      "matches": [],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Quillora'"
     },
@@ -1240,10 +1262,12 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:09:53Z",
+     "checked_at": "2026-10-19T11:19:35Z",
      "matches": [],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 0,
+     "n_identical": 0,
+     "n_similar": 0,
      "status": "none",
      "detail": "no identical or very similar mark among 0 hits for 'Quillora'"
     }
@@ -1258,7 +1282,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "vantrix.com",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "status": "taken",
      "detail": "registrar: easyDNS Technologies Inc.; registered 2003-07-05; expires 2027-07-05; DNS delegated",
      "registrar": "easyDNS Technologies Inc.",
@@ -1277,7 +1301,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "vantrix.io",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "status": "taken",
      "detail": "registrar: PDR Ltd. d/b/a PublicDomainRegistry.com; registered 2026-04-08; expires 2027-04-08; DNS delegated",
      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -1295,7 +1319,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "vantrix.ai",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "status": "taken",
      "detail": "registrar: InternetX; registered 2026-03-11; expires 2028-03-11; DNS delegated",
      "registrar": "InternetX",
@@ -1313,7 +1337,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "vantrix.co",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "registrar: Hosting Concepts B.V. d/b/a Registrar.eu; registered 2026-05-18; DNS delegated",
      "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
@@ -1329,7 +1353,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "vantrix.app",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "registrar: GoDaddy.com, LLC; registered 2026-03-19; expires 2028-03-19; DNS delegated",
      "registrar": "GoDaddy.com, LLC",
@@ -1350,7 +1374,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "vantrix.dev",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "available",
      "detail": "not in the registry (RDAP pubapi.registry.google) and no DNS delegation",
      "sources": [
@@ -1364,7 +1388,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "account exists: Vantrix (@vantrix)",
      "evidence": {
@@ -1381,7 +1405,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "available",
      "detail": "no public account at instagram.com/vantrix (bare shell, no profile metadata)",
      "evidence": {
@@ -1399,7 +1423,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:10:05Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "account exists: vaniatrix (@vantrix)",
      "evidence": {
@@ -1417,7 +1441,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:35Z",
      "status": "taken",
      "detail": "user account exists",
      "evidence": {
@@ -1433,7 +1457,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "channel exists: Mullen Dyh.",
      "evidence": {
@@ -1450,7 +1474,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/vantrix",
      "evidence": {
@@ -1470,7 +1494,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:58Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "status": "taken",
      "detail": "user or bot exists: Van Illac Cordero",
      "evidence": {
@@ -1486,9 +1510,9 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "vantrix",
-     "checked_at": "2026-10-19T11:09:59Z",
-     "status": "unconfirmed",
-     "detail": "platform serves the same page to anonymous visitors for every handle (control check failed); company page exists: Vantrix",
+     "checked_at": "2026-10-19T11:19:36Z",
+     "status": "taken",
+     "detail": "company page exists: Vantrix",
      "evidence": {
       "company": {
        "url": "https://www.linkedin.com/company/vantrix",
@@ -1497,7 +1521,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -1506,7 +1530,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "matches": [
       {
        "title": "Vantrix Melxo - String Assist",
@@ -1524,7 +1548,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:09:59Z",
+     "checked_at": "2026-10-19T11:19:36Z",
      "matches": [],
      "source": "Google Play search page",
      "status": "available",
@@ -1536,7 +1560,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:10:00Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "matches": [
       {
        "mark": "VANTRIX",
@@ -1717,24 +1741,25 @@
       },
       {
        "mark": "VANTIX",
-       "number": "Ser. 77301969",
-       "serial": "77301969",
-       "registration_number": null,
-       "status": "DEAD - ABANDONED - NO STATEMENT OF USE FILED",
-       "owner": "Dx Tech LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+       "number": "Reg. 7375157 / Ser. 97251414",
+       "serial": "97251414",
+       "registration_number": "7375157",
+       "status": "LIVE - REGISTERED",
+       "owner": "Rheem Manufacturing Company (CORPORATION; DELAWARE, USA)",
        "classes": [
-        "IC 044",
-        "IC 009"
+        "IC 011"
        ],
        "office": "US",
-       "filed": "2007-10-11T00:00:00",
-       "url": "https://tsdr.uspto.gov/#caseNumber=77301969&caseType=SERIAL_NO&searchType=statusSearch",
+       "filed": "2022-02-03T00:00:00",
+       "url": "https://tsdr.uspto.gov/#caseNumber=97251414&caseType=SERIAL_NO&searchType=statusSearch",
        "match": "similar",
        "database": "USPTO trademark search (tmsearch.uspto.gov)"
       }
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 2,
+     "n_similar": 48,
      "status": "identical",
      "detail": "2 identical and 48 similar mark(s) among 50 hits for 'Vantrix'"
     },
@@ -1742,7 +1767,7 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:10:00Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "matches": [
       {
        "mark": "VANTRIX",
@@ -1807,6 +1832,8 @@
      ],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 4,
+     "n_identical": 3,
+     "n_similar": 1,
      "status": "identical",
      "detail": "3 identical and 1 similar mark(s) among 4 hits for 'Vantrix'"
     },
@@ -1814,7 +1841,7 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:10:00Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "matches": [
       {
        "mark": "VANTRIX",
@@ -1850,6 +1877,8 @@
      ],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 2,
+     "n_identical": 2,
+     "n_similar": 0,
      "status": "identical",
      "detail": "2 identical and 0 similar mark(s) among 2 hits for 'Vantrix'"
     },
@@ -1857,7 +1886,7 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:10:00Z",
+     "checked_at": "2026-10-19T11:19:37Z",
      "matches": [
       {
        "mark": "VANTRIX",
@@ -1894,6 +1923,8 @@
      ],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 2,
+     "n_identical": 1,
+     "n_similar": 1,
      "status": "identical",
      "detail": "1 identical and 1 similar mark(s) among 2 hits for 'Vantrix'"
     }
@@ -1908,7 +1939,7 @@
      "check": "domain",
      "target": ".com",
      "domain": "lumeno.com",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "registrar: InterNetX GmbH; registered 2009-04-10; expires 2028-04-10; DNS delegated",
      "registrar": "InterNetX GmbH",
@@ -1926,7 +1957,7 @@
      "check": "domain",
      "target": ".io",
      "domain": "lumeno.io",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "status": "taken",
      "detail": "registrar: Dynadot Inc; registered 2023-05-26; expires 2027-05-26; DNS delegated",
      "registrar": "Dynadot Inc",
@@ -1944,7 +1975,7 @@
      "check": "domain",
      "target": ".ai",
      "domain": "lumeno.ai",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "registrar: NameCheap, Inc.; registered 2023-06-25; expires 2027-06-25; DNS delegated",
      "registrar": "NameCheap, Inc.",
@@ -1962,7 +1993,7 @@
      "check": "domain",
      "target": ".co",
      "domain": "lumeno.co",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "registrar: .co Registry; registered 2025-11-07; registered but not delegated in DNS",
      "registrar": ".co Registry",
@@ -1978,7 +2009,7 @@
      "check": "domain",
      "target": ".app",
      "domain": "lumeno.app",
-     "checked_at": "2026-10-19T11:10:05Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "registrar: Namecheap Inc.; registered 2025-08-25; expires 2026-08-25; registered but not delegated in DNS",
      "registrar": "Namecheap Inc.",
@@ -1997,7 +2028,7 @@
      "check": "domain",
      "target": ".dev",
      "domain": "lumeno.dev",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "registrar: Name.com, Inc.; registered 2026-03-31; expires 2027-03-31; DNS delegated",
      "registrar": "Name.com, Inc.",
@@ -2017,7 +2048,7 @@
      "check": "handle",
      "platform": "x",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:05Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "status": "taken",
      "detail": "account exists: fransisca (@lumeno)",
      "evidence": {
@@ -2034,7 +2065,7 @@
      "check": "handle",
      "platform": "instagram",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "profile metadata present at instagram.com/lumeno",
      "evidence": {
@@ -2052,7 +2083,7 @@
      "check": "handle",
      "platform": "tiktok",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:14Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "account exists: mmiv (@lumeno)",
      "evidence": {
@@ -2070,7 +2101,7 @@
      "check": "handle",
      "platform": "github",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:05Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "organization account exists",
      "evidence": {
@@ -2086,7 +2117,7 @@
      "check": "handle",
      "platform": "youtube",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:05Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "available",
      "detail": "no channel with this handle",
      "evidence": {
@@ -2103,7 +2134,7 @@
      "check": "handle",
      "platform": "reddit",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "status": "unconfirmed",
      "detail": "Reddit blocks anonymous lookups from this network (HTTP 403); verify at reddit.com/user/lumeno",
      "evidence": {
@@ -2123,7 +2154,7 @@
      "check": "handle",
      "platform": "telegram",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "status": "taken",
      "detail": "user or bot exists: Lumeno",
      "evidence": {
@@ -2139,7 +2170,7 @@
      "check": "handle",
      "platform": "linkedin",
      "handle": "lumeno",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "status": "unconfirmed",
      "detail": "LinkedIn answered HTTP 999/999; verify while signed in",
      "evidence": {
@@ -2155,7 +2186,7 @@
       }
      },
      "controls": {
-      "neg": false,
+      "neg": true,
       "pos": false
      }
     }
@@ -2164,7 +2195,7 @@
     {
      "check": "app",
      "target": "Apple App Store",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "matches": [
       {
        "title": "Lumeno",
@@ -2182,7 +2213,7 @@
     {
      "check": "app",
      "target": "Google Play",
-     "checked_at": "2026-10-19T11:10:06Z",
+     "checked_at": "2026-10-19T11:19:38Z",
      "matches": [
       {
        "title": "Lumeno - Offline Music Player",
@@ -2202,7 +2233,7 @@
      "check": "trademark",
      "country": "us",
      "database": "USPTO trademark search (tmsearch.uspto.gov)",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "matches": [
       {
        "mark": "LUMENO",
@@ -2402,6 +2433,8 @@
      ],
      "manual_url": "https://tmsearch.uspto.gov/search/search-information",
      "total_hits": 50,
+     "n_identical": 2,
+     "n_similar": 43,
      "status": "identical",
      "detail": "2 identical and 43 similar mark(s) among 50 hits for 'Lumeno'"
     },
@@ -2409,7 +2442,7 @@
      "check": "trademark",
      "country": "eu",
      "database": "EUIPO eSearch plus",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "matches": [
       {
        "mark": "LUMENO",
@@ -2444,6 +2477,8 @@
      ],
      "manual_url": "https://euipo.europa.eu/eSearch/",
      "total_hits": 2,
+     "n_identical": 2,
+     "n_similar": 0,
      "status": "identical",
      "detail": "2 identical and 0 similar mark(s) among 2 hits for 'Lumeno'"
     },
@@ -2451,7 +2486,7 @@
      "check": "trademark",
      "country": "uk",
      "database": "UK IPO register via TMview",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "matches": [
       {
        "mark": "LUMENO",
@@ -2582,6 +2617,8 @@
      ],
      "manual_url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
      "total_hits": 19,
+     "n_identical": 2,
+     "n_similar": 6,
      "status": "identical",
      "detail": "2 identical and 6 similar mark(s) among 19 hits for 'Lumeno'"
     },
@@ -2589,7 +2626,7 @@
      "check": "trademark",
      "country": "wipo",
      "database": "WIPO Madrid international register via TMview",
-     "checked_at": "2026-10-19T11:10:07Z",
+     "checked_at": "2026-10-19T11:19:39Z",
      "matches": [
       {
        "mark": "LUMENO",
@@ -2625,6 +2662,8 @@
      ],
      "manual_url": "https://branddb.wipo.int/",
      "total_hits": 4,
+     "n_identical": 2,
+     "n_similar": 0,
      "status": "identical",
      "detail": "2 identical and 0 similar mark(s) among 4 hits for 'Lumeno'"
     }
@@ -2649,11 +2688,11 @@
  "rules": "No domain or handle in this report was registered, reserved or bought by this service, and none will be. The names you asked about are not stored beyond this job, and are never shared or sold.",
  "disclaimer": "Trademark results are a starting point, not legal advice. They come from automated searches of public databases for identical or very similar marks; whether a mark is confusingly similar is a legal judgment, so have a trademark attorney review any name you intend to use commercially.",
  "calibration": {
-  "instagram": {
+  "telegram": {
    "neg": true,
    "pos": true
   },
-  "telegram": {
+  "instagram": {
    "neg": true,
    "pos": true
   },
@@ -2662,7 +2701,7 @@
    "pos": true
   },
   "linkedin": {
-   "neg": false,
+   "neg": true,
    "pos": false
   },
   "tiktok": {
@@ -2670,5 +2709,5 @@
    "pos": true
   }
  },
- "finished_at": "2026-10-19T11:10:14Z"
+ "finished_at": "2026-10-19T11:19:39Z"
 }
